@@ -1,0 +1,399 @@
+Darakjy;Josephine;principal scientist;principal scientist;4 B Blue Ridge Blvd 2703 Brighton MI US;4.021;+1 491 215 13;1;Darakjy.Josephine@my-corp-usa.com
+Venere;Art;deputy manager;client relationship manager for deputy manager;4 B Blue Ridge Blvd 2703 Brighton MI US;3.032;+1 491 215 14;17;Venere.Art@my-corp-usa.com
+Paprocki;Lenna;chief analytics officer (cao);founder managing director of chief analytics officer (cao);4 B Blue Ridge Blvd 2703 Brighton MI US;4.022;+1 491 215 15;13;Paprocki.Lenna@my-corp-usa.com
+Foller;Donette;vice president  human resources;quality assurance engineer for vice president  human resources;4 B Blue Ridge Blvd 2703 Brighton MI US;4.023;+1 491 215 16;17;Foller.Donette@my-corp-usa.com
+Morasca;Simona;sales rep;student for sales rep;4 B Blue Ridge Blvd 2703 Brighton MI US;3.021;+1 491 215 17;12;Morasca.Simona@my-corp-usa.com
+Tollner;Mitsue;director;research engineer for director;4 B Blue Ridge Blvd 2703 Brighton MI US;4.033;+1 491 215 18;8;Tollner.Mitsue@my-corp-usa.com
+Dilliard;Leota;recruitment consultant;machine learning scientist for recruitment consultant;4 B Blue Ridge Blvd 2703 Brighton MI US;1.011;+1 491 215 19;16;Dilliard.Leota@my-corp-usa.com
+Wieser;Sage;lead consultant;senior engineer of lead consultant;4 B Blue Ridge Blvd 2703 Brighton MI US;4.023;+1 491 215 20;21;Wieser.Sage@my-corp-usa.com
+Marrier;Kris;vp marketing;cto founder of vp marketing;4 B Blue Ridge Blvd 2703 Brighton MI US;2.011;+1 491 215 21;2;Marrier.Kris@my-corp-usa.com
+Amigon;Minna;vp marketing science;principal dev lead for vp marketing science;4 B Blue Ridge Blvd 2703 Brighton MI US;2.042;+1 491 215 22;20;Amigon.Minna@my-corp-usa.com
+Maclead;Abel;director talent acquisition;data consultant of director talent acquisition;4 B Blue Ridge Blvd 2703 Brighton MI US;2.031;+1 491 215 23;12;Maclead.Abel@my-corp-usa.com
+Caldarera;Kiley;assistant manager;director   founder of assistant manager;4 B Blue Ridge Blvd 2703 Brighton MI US;4.011;+1 491 215 24;7;Caldarera.Kiley@my-corp-usa.com
+Ruta;Graciela;member board trustees;sr  director  human resources of member board trustees;4 B Blue Ridge Blvd 2703 Brighton MI US;4.032;+1 491 215 25;4;Ruta.Graciela@my-corp-usa.com
+Albares;Cammy;senior recruiter;director  analytics for senior recruiter;4 B Blue Ridge Blvd 2703 Brighton MI US;2.023;+1 491 215 26;14;Albares.Cammy@my-corp-usa.com
+Poquette;Mattie;recruiting coordinator;system analyst for recruiting coordinator;4 B Blue Ridge Blvd 2703 Brighton MI US;1.022;+1 491 215 27;17;Poquette.Mattie@my-corp-usa.com
+Garufi;Meaghan;manager  talent acquisition;senior executive for manager  talent acquisition;4 B Blue Ridge Blvd 2703 Brighton MI US;3.011;+1 491 215 28;4;Garufi.Meaghan@my-corp-usa.com
+Rim;Gladys;visiting professor;lead scientist of visiting professor;4 B Blue Ridge Blvd 2703 Brighton MI US;4.011;+1 491 215 29;6;Rim.Gladys@my-corp-usa.com
+Whobrey;Yuki;big data developer;principal founder of big data developer;4 B Blue Ridge Blvd 2703 Brighton MI US;4.043;+1 491 215 30;2;Whobrey.Yuki@my-corp-usa.com
+Flosi;Fletcher;key account manager;advanced analytics for key account manager;4 B Blue Ridge Blvd 2703 Brighton MI US;2.041;+1 491 215 31;15;Flosi.Fletcher@my-corp-usa.com
+Babette;Münzel;senior associate consultant;principal member technical staff of senior associate consultant;4 B Blue Ridge Blvd 2703 Brighton MI US;3.034;+1 491 215 32;8;Babette.Münzel@my-corp-usa.com
+Inouye;Veronika;recruitment manager;senior risk analyst of recruitment manager;4 B Blue Ridge Blvd 2703 Brighton MI US;2.024;+1 491 215 33;7;Inouye.Veronika@my-corp-usa.com
+Kolmetz;Willard;systems analyst;manager for systems analyst;4 B Blue Ridge Blvd 2703 Brighton MI US;3.022;+1 491 215 34;13;Kolmetz.Willard@my-corp-usa.com
+Royster;Maryann;research scientist;editorial director of research scientist;4 B Blue Ridge Blvd 2703 Brighton MI US;2.013;+1 491 215 35;7;Royster.Maryann@my-corp-usa.com
+Alisha;Ślusarski;portfolio manager;director  digital analytics for portfolio manager;4 B Blue Ridge Blvd 2703 Brighton MI US;1.011;+1 491 215 36;7;Alisha.Ślusarski@my-corp-usa.com
+Iturbide;Allene;csc;engineering program manager for csc;4 B Blue Ridge Blvd 2703 Brighton MI US;4.021;+1 491 215 37;9;Iturbide.Allene@my-corp-usa.com
+Caudy;Chanel;member;chief science officer for member;4 B Blue Ridge Blvd 2703 Brighton MI US;1.043;+1 491 215 38;19;Caudy.Chanel@my-corp-usa.com
+Chui;Ezekiel;sr  program manager;business manager of sr  program manager;4 B Blue Ridge Blvd 2703 Brighton MI US;2.032;+1 491 215 39;8;Chui.Ezekiel@my-corp-usa.com
+Kusko;Willow;engineer;cto for engineer;4 B Blue Ridge Blvd 2703 Brighton MI US;1.044;+1 491 215 40;13;Kusko.Willow@my-corp-usa.com
+Figeroa;Bernardo;editor;profesor for editor;4 B Blue Ridge Blvd 2703 Brighton MI US;3.014;+1 491 215 41;12;Figeroa.Bernardo@my-corp-usa.com
+Corrio;Ammie;senior engineer;sas consultant of senior engineer;74874 Atlantic Ave 2703 Columbus OH US;3.021;+1 491 215 42;22;Corrio.Ammie@acme.net
+Vocelka;Francine;associate partner;member for associate partner;74874 Atlantic Ave 2703 Columbus OH US;1.041;+1 491 215 43;11;Vocelka.Francine@my-corp-usa.com
+Stenseth;Ernie;big data architect;sr  project manager of big data architect;45 E Liberty St 99655 Ridgefield Park NJ US;1.041;+1 491 215 44;10;Stenseth.Ernie@my-corp-usa.com
+Glick;Albina;research analyst;research staff member of research analyst;45 E Liberty St 99655 Ridgefield Park NJ US;2.041;+1 491 215 45;4;Glick.Albina@my-corp-usa.com
+Sergi;Alishia;senior member technical staff;vice president products for senior member technical staff;45 E Liberty St 99655 Ridgefield Park NJ US;4.031;+1 491 215 46;15;Sergi.Alishia@my-corp-usa.com
+Shinko;Solange;founder managing principal;sr director engineering of founder managing principal;45 E Liberty St 99655 Ridgefield Park NJ US;3.034;+1 491 215 47;14;Shinko.Solange@my-corp-usa.com
+Stockham;Jose;lecturer researcher;analytics professional of lecturer researcher;45 E Liberty St 99655 Ridgefield Park NJ US;4.042;+1 491 215 48;11;Stockham.Jose@my-corp-usa.com
+Ostrosky;Rozella;client relationship manager;manager  digital analytics for client relationship manager;45 E Liberty St 99655 Ridgefield Park NJ US;4.023;+1 491 215 49;13;Ostrosky.Rozella@my-corp-usa.com
+Gillian;Valentine;biostatistician ii;director consulting services for biostatistician ii;45 E Liberty St 99655 Ridgefield Park NJ US;1.043;+1 491 215 50;6;Gillian.Valentine@my-corp-usa.com
+Rulapaugh;Kati;senior director business development;principal research scientist of senior director business development;45 E Liberty St 99655 Ridgefield Park NJ US;2.011;+1 491 215 51;7;Rulapaugh.Kati@my-corp-usa.com
+Schemmer;Youlanda;analysis manager;vp  marketing for analysis manager;45 E Liberty St 99655 Ridgefield Park NJ US;2.022;+1 491 215 52;17;Schemmer.Youlanda@my-corp-usa.com
+Oldroyd;Dyan;solutions engineer;sales director of solutions engineer;45 E Liberty St 99655 Ridgefield Park NJ US;1.014;+1 491 215 53;12;Oldroyd.Dyan@my-corp-usa.com
+Campain;Roxane;vp sales;technical lead for vp sales;45 E Liberty St 99655 Ridgefield Park NJ US;2.031;+1 491 215 54;20;Campain.Roxane@my-corp-usa.com
+Perin;Lavera;lead solutions architect;it manager for lead solutions architect;45 E Liberty St 99655 Ridgefield Park NJ US;2.032;+1 491 215 55;17;Perin.Lavera@my-corp-usa.com
+Ferencz;Erick;senior director marketing;analytics consultant for senior director marketing;45 E Liberty St 99655 Ridgefield Park NJ US;4.014;+1 491 215 56;8;Ferencz.Erick@my-corp-usa.com
+Saylors;Fatima;risk consultant;analytics professional for risk consultant;45 E Liberty St 99655 Ridgefield Park NJ US;1.031;+1 491 215 57;17;Saylors.Fatima@my-corp-usa.com
+Briddick;Jina;senior program manager;project manager for senior program manager;45 E Liberty St 99655 Ridgefield Park NJ US;4.042;+1 491 215 58;14;Briddick.Jina@my-corp-usa.com
+Waycott;Kanisha;operations;sr director engineering for operations;45 E Liberty St 99655 Ridgefield Park NJ US;3.012;+1 491 215 59;3;Waycott.Kanisha@my-corp-usa.com
+Bowley;Emerson;senior recruitment consultant;consulting director for senior recruitment consultant;45 E Liberty St 99655 Ridgefield Park NJ US;3.022;+1 491 215 60;16;Bowley.Emerson@my-corp-usa.com
+Malet;Blair;vp product marketing;system analyst for vp product marketing;45 E Liberty St 99655 Ridgefield Park NJ US;1.023;+1 491 215 61;20;Malet.Blair@my-corp-usa.com
+Bolognia;Brock;phd researcher;senior conference producer of phd researcher;45 E Liberty St 99655 Ridgefield Park NJ US;4.012;+1 491 215 62;4;Bolognia.Brock@my-corp-usa.com
+Nestle;Lorrie;senior database developer;president founder for senior database developer;45 E Liberty St 99655 Ridgefield Park NJ US;4.022;+1 491 215 63;9;Nestle.Lorrie@my-corp-usa.com
+Uyetake;Sabra;senior director engineering;sr consultant of senior director engineering;45 E Liberty St 99655 Ridgefield Park NJ US;4.021;+1 491 215 64;18;Uyetake.Sabra@my-corp-usa.com
+Mastella;Marjory;subject matter expert;strategic advisor for subject matter expert;45 E Liberty St 99655 Ridgefield Park NJ US;3.032;+1 491 215 65;18;Mastella.Marjory@my-corp-usa.com
+Klonowski;Karl;big data architect;operations research analyst of big data architect;45 E Liberty St 99655 Ridgefield Park NJ US;1.041;+1 491 215 66;19;Klonowski.Karl@my-corp-usa.com
+Wenner;Tonette;consultant owner;visiting assistant professor of consultant owner;45 E Liberty St 99655 Ridgefield Park NJ US;1.022;+1 491 215 67;21;Wenner.Tonette@my-corp-usa.com
+Monarrez;Amber;research scientist;cfo of research scientist;45 E Liberty St 99655 Ridgefield Park NJ US;3.044;+1 491 215 68;2;Monarrez.Amber@my-corp-usa.com
+Seewald;Shenika;risk manager;head strategy for risk manager;45 E Liberty St 99655 Ridgefield Park NJ US;1.042;+1 491 215 69;8;Seewald.Shenika@my-corp-usa.com
+Ahle;Delmy;senior technical recruiter;director product development of senior technical recruiter;45 E Liberty St 99655 Ridgefield Park NJ US;1.044;+1 491 215 70;19;Ahle.Delmy@my-corp-usa.com
+Juhas;Deeanna;system analyst;human resources business partner of system analyst;45 E Liberty St 99655 Ridgefield Park NJ US;2.031;+1 491 215 71;10;Juhas.Deeanna@my-corp-usa.com
+Pugh;Blondell;information management specialist;principal dev lead of information management specialist;45 E Liberty St 99655 Ridgefield Park NJ US;3.022;+1 491 215 72;20;Pugh.Blondell@my-corp-usa.com
+Vanausdal;Jamal;senior scientist;sr director engineering for senior scientist;45 E Liberty St 99655 Ridgefield Park NJ US;2.044;+1 491 215 73;14;Vanausdal.Jamal@my-corp-usa.com
+Hollack;Cecily;assistant professor;director integrated marketing for assistant professor;45 E Liberty St 99655 Ridgefield Park NJ US;2.031;+1 491 215 74;20;Hollack.Cecily@my-corp-usa.com
+Lindall;Carmelina;business intelligence manager;software architect for business intelligence manager;2664 Lewis Rd 3251 Littleton CO US;4.014;+1 491 215 75;16;Lindall.Carmelina@my-corp-usa.com
+Yglesias;Maurine;facilitator;sr  talent acquisition partner of facilitator;2664 Lewis Rd 3251 Littleton CO US;3.013;+1 491 215 76;4;Yglesias.Maurine@my-corp-usa.com
+Buvens;Tawna;senior it recruiter;sas developer of senior it recruiter;2664 Lewis Rd 3251 Littleton CO US;2.024;+1 491 215 77;9;Buvens.Tawna@my-corp-usa.com
+Løkke;Andræ;lead developer;assistant manager of lead developer;2664 Lewis Rd 3251 Littleton CO US;1.044;+1 491 215 78;7;Løkke.Andræ@my-corp-usa.com
+Morocco;Elly;phd candidate;assistant manager for phd candidate;2664 Lewis Rd 3251 Littleton CO US;4.014;+1 491 215 79;15;Morocco.Elly@my-corp-usa.com
+Eroman;Ilene;enseignant;senior account manager for enseignant;2664 Lewis Rd 3251 Littleton CO US;2.014;+1 491 215 80;11;Eroman.Ilene@my-corp-usa.com
+Mondella;Vallie;lead engineer;owner photographer for lead engineer;2664 Lewis Rd 3251 Littleton CO US;4.034;+1 491 215 81;11;Mondella.Vallie@my-corp-usa.com
+Blackwood;Kallie;managing principal;business intelligence consultant for managing principal;2664 Lewis Rd 3251 Littleton CO US;2.023;+1 491 215 82;14;Blackwood.Kallie@my-corp-usa.com
+Abdallah;Johnetta;senior developer;advisor for senior developer;2664 Lewis Rd 3251 Littleton CO US;3.041;+1 491 215 83;3;Abdallah.Johnetta@my-corp-usa.com
+Rhym;Bobbye;flubit;co founder director for flubit;2664 Lewis Rd 3251 Littleton CO US;1.023;+1 491 215 84;3;Rhym.Bobbye@my-corp-usa.com
+Rhymes;Micaela;sales rep;investment manager for sales rep;2664 Lewis Rd 3251 Littleton CO US;3.032;+1 491 215 85;18;Rhymes.Micaela@my-corp-usa.com
+Hoogland;Tamar;chief operating officer;recruitment manager for chief operating officer;2664 Lewis Rd 3251 Littleton CO US;2.033;+1 491 215 86;14;Hoogland.Tamar@my-corp-usa.com
+Parlato;Moon;content manager;scientific advisor for content manager;2664 Lewis Rd 3251 Littleton CO US;2.021;+1 491 215 87;17;Parlato.Moon@my-corp-usa.com
+Reitler;Laurel;cto co founder;manager for cto co founder;2664 Lewis Rd 3251 Littleton CO US;3.012;+1 491 215 88;1;Reitler.Laurel@my-corp-usa.com
+Crupi;Delisa;data anayltics professional;statistical research analyst of data anayltics professional;2664 Lewis Rd 3251 Littleton CO US;2.041;+1 491 215 89;16;Crupi.Delisa@my-corp-usa.com
+Toelkes;Viva;chief analytics officer;project manager of chief analytics officer;2664 Lewis Rd 3251 Littleton CO US;3.043;+1 491 215 90;21;Toelkes.Viva@my-corp-usa.com
+Lipke;Elza;practice director;director  talent acquisition for practice director;2664 Lewis Rd 3251 Littleton CO US;2.021;+1 491 215 91;3;Lipke.Elza@my-corp-usa.com
+Chickering;Devorah;consulting member technical staff;business development executive for consulting member technical staff;2664 Lewis Rd 3251 Littleton CO US;3.034;+1 491 215 92;10;Chickering.Devorah@my-corp-usa.com
+Mulqueen;Timothy;co founder  cto;consultant for co founder  cto;2664 Lewis Rd 3251 Littleton CO US;3.041;+1 491 215 93;5;Mulqueen.Timothy@my-corp-usa.com
+Honeywell;Arlette;president;big data architect for president;2664 Lewis Rd 3251 Littleton CO US;3.011;+1 491 215 94;8;Honeywell.Arlette@my-corp-usa.com
+Dickerson;Dominque;operations;founder   managing partner of operations;2664 Lewis Rd 3251 Littleton CO US;2.024;+1 491 215 95;20;Dickerson.Dominque@my-corp-usa.com
+Isenhower;Lettie;vp  marketing;group director analytics of vp  marketing;2664 Lewis Rd 3251 Littleton CO US;3.024;+1 491 215 96;13;Isenhower.Lettie@my-corp-usa.com
+Munns;Myra;director consulting services;quantitative developer for director consulting services;2664 Lewis Rd 3251 Littleton CO US;1.041;+1 491 215 97;1;Munns.Myra@my-corp-usa.com
+Barfield;Stephaine;bdm;director  product management for bdm;2664 Lewis Rd 3251 Littleton CO US;1.044;+1 491 215 98;6;Barfield.Stephaine@my-corp-usa.com
+Gato;Lai;business intelligence developer;senior technical recruiter for business intelligence developer;2664 Lewis Rd 3251 Littleton CO US;2.033;+1 491 215 99;7;Gato.Lai@my-corp-usa.com
+Emigh;Stephen;senior web analyst;chief marketing officer of senior web analyst;2664 Lewis Rd 3251 Littleton CO US;2.012;+1 491 215 100;2;Emigh.Stephen@my-corp-usa.com
+Shields;Tyra;director data science;senior business analytics specialist for director data science;2664 Lewis Rd 3251 Littleton CO US;1.042;+1 491 215 101;12;Shields.Tyra@my-corp-usa.com
+Wardrip;Tammara;engineer;director in charge for engineer;2664 Lewis Rd 3251 Littleton CO US;4.014;+1 491 215 102;3;Wardrip.Tammara@my-corp-usa.com
+Gibes;Cory;dmr;chief analytics officer for dmr;2664 Lewis Rd 3251 Littleton CO US;1.031;+1 491 215 103;5;Gibes.Cory@my-corp-usa.com
+Bruschke;Danica;vice president  executive recruiter;senior analyst of vice president  executive recruiter;2664 Lewis Rd 3251 Littleton CO US;3.012;+1 491 215 104;7;Bruschke.Danica@my-corp-usa.com
+Giguere;Wilda;senior program manager;booz allen hamilton of senior program manager;2664 Lewis Rd 3251 Littleton CO US;3.011;+1 491 215 105;21;Giguere.Wilda@my-corp-usa.com
+Benimadho;Elvera;investment manager;entrepreneur for investment manager;2664 Lewis Rd 3251 Littleton CO US;1.043;+1 491 215 106;20;Benimadho.Elvera@my-corp-usa.com
+Vanheusen;Carma;machine learning specialist;consulting member technical staff for machine learning specialist;2664 Lewis Rd 3251 Littleton CO US;4.042;+1 491 215 107;5;Vanheusen.Carma@my-corp-usa.com
+Hochard;Malinda;operations research analyst;development manager of operations research analyst;2664 Lewis Rd 3251 Littleton CO US;3.044;+1 491 215 108;17;Hochard.Malinda@my-corp-usa.com
+Fern;Natalie;sr director engineering;post doctoral researcher for sr director engineering;2664 Lewis Rd 3251 Littleton CO US;2.033;+1 491 215 109;2;Fern.Natalie@my-corp-usa.com
+Centini;Lisha;systems analyst;bi consultant for systems analyst;2664 Lewis Rd 3251 Littleton CO US;3.042;+1 491 215 110;15;Centini.Lisha@my-corp-usa.com
+Klusman;Arlene;saama technologies;talent acquisition manager for saama technologies;2664 Lewis Rd 3251 Littleton CO US;2.042;+1 491 215 111;20;Klusman.Arlene@my-corp-usa.com
+Buemi;Alease;vice president  business development;business manager for vice president  business development;2664 Lewis Rd 3251 Littleton CO US;2.042;+1 491 215 112;20;Buemi.Alease@my-corp-usa.com
+Cronauer;Louisa;adjunct instructor;manager data analytics for adjunct instructor;2664 Lewis Rd 3251 Littleton CO US;1.013;+1 491 215 113;20;Cronauer.Louisa@my-corp-usa.com
+Cetta;Angella;director  digital analytics;fico for director  digital analytics;2664 Lewis Rd 3251 Littleton CO US;4.032;+1 491 215 114;21;Cetta.Angella@my-corp-usa.com
+Goldammer;Cyndy;research development manager;sr  account manager for research development manager;2664 Lewis Rd 3251 Littleton CO US;1.021;+1 491 215 115;16;Goldammer.Cyndy@my-corp-usa.com
+Cork;Rosio;principal research scientist;data engineer for principal research scientist;2664 Lewis Rd 3251 Littleton CO US;1.034;+1 491 215 116;18;Cork.Rosio@my-corp-usa.com
+Korando;Celeste;instructor;attorney of instructor;2664 Lewis Rd 3251 Littleton CO US;3.011;+1 491 215 117;4;Korando.Celeste@my-corp-usa.com
+Felger;Twana;senior biostatistician;analytics professional for senior biostatistician;2664 Lewis Rd 3251 Littleton CO US;3.024;+1 491 215 118;11;Felger.Twana@my-corp-usa.com
+Samu;Estrella;software development engineer ii;r d director for software development engineer ii;2664 Lewis Rd 3251 Littleton CO US;3.034;+1 491 215 119;1;Samu.Estrella@my-corp-usa.com
+Kines;Donte;member board directors;vp of member board directors;2664 Lewis Rd 3251 Littleton CO US;3.044;+1 491 215 120;22;Kines.Donte@my-corp-usa.com
+Steffensmeier;Tiffiny;sr  consultant;director human resources of sr  consultant;2664 Lewis Rd 3251 Littleton CO US;1.032;+1 491 215 121;14;Steffensme.Tiffiny@my-corp-usa.com
+Miceli;Edna;senior consulting engineer;statistical research analyst for senior consulting engineer;2664 Lewis Rd 3251 Littleton CO US;1.032;+1 491 215 122;21;Miceli.Edna@my-corp-usa.com
+Bartelt;Viola;founding director;data analytics manager for founding director;Im Greut 34 74078 Frankenbach DE;4.014;+49 151 355 123;11;Bartelt.Viola@my-corp.de
+Arend;Natalia;talent acquisition manager;research scholar of talent acquisition manager;Im Greut 34 74078 Frankenbach DE;3.012;+49 151 355 124;12;Arend.Natalia@my-corp.de
+Nitsche;Dominic;principal scientist;engineering manager for principal scientist;Im Greut 34 74078 Frankenbach DE;3.023;+49 151 355 125;4;Nitsche.Dominic@my-corp.de
+Tischer;Engelmar;data science manager;chief executive officer of data science manager;Im Greut 34 74078 Frankenbach DE;2.013;+49 151 355 126;12;Tischer.Engelmar@my-corp.de
+Klett;Catharina;it business analyst;recruiter for it business analyst;Im Greut 34 74078 Frankenbach DE;3.031;+49 151 355 127;19;Klett.Catharina@my-corp.de
+Schepers;Ramona;avp   analytics;research scientist for avp   analytics;Im Greut 34 74078 Frankenbach DE;1.044;+49 151 355 128;13;Schepers.Ramona@my-corp.de
+Kollmann;Anni;sr  talent acquisition partner;business analytics manager for sr  talent acquisition partner;Im Greut 34 74078 Frankenbach DE;3.044;+49 151 355 129;22;Kollmann.Anni@my-corp.de
+Goerke;Nils;senior recruitment consultant;risk analytics manager for senior recruitment consultant;Im Greut 34 74078 Frankenbach DE;4.023;+49 151 355 130;11;Goerke.Nils@my-corp.de
+Dieterich;Kathrin;data manager;director marketing of data manager;Im Greut 34 74078 Frankenbach DE;3.024;+49 151 355 131;3;Dieterich.Kathrin@my-corp.de
+Henning;Juliane;data scientist   manager;principal data scientist of data scientist   manager;Im Greut 34 74078 Frankenbach DE;4.033;+49 151 355 132;4;Henning.Juliane@my-corp.de
+Althaus;Lilli;board advisors;engineering program manager of board advisors;Im Greut 34 74078 Frankenbach DE;4.011;+49 151 355 133;8;Althaus.Lilli@my-corp.de
+Schötz;Kathrin;director   co founder;senior principal of director   co founder;Im Greut 34 74078 Frankenbach DE;4.012;+49 151 355 134;12;Schötz.Kathrin@my-corp.de
+Nielsen;Tim;sr  talent acquisition partner;assistant consultant for sr  talent acquisition partner;Im Greut 34 74078 Frankenbach DE;4.011;+49 151 355 135;11;Nielsen.Tim@my-corp.de
+Schuhmann;Christian;head analytics;director consulting services of head analytics;Im Greut 34 74078 Frankenbach DE;1.031;+49 151 355 136;5;Schuhmann.Christian@my-corp.de
+Knoche;Jannik;system analyst;sas developer for system analyst;Im Greut 34 74078 Frankenbach DE;1.013;+49 151 355 137;22;Knoche.Jannik@my-corp.de
+Aßmann;Walther;general partner;sr software engineer for general partner;Im Greut 34 74078 Frankenbach DE;3.041;+49 151 355 138;13;Aßmann.Walther@my-corp.de
+Lederer;Louisa;post doctoral researcher;group director analytics of post doctoral researcher;Im Greut 34 74078 Frankenbach DE;4.012;+49 151 355 139;9;Lederer.Louisa@my-corp.de
+Hipp;Nele;head analytics;senior research scientist for head analytics;Im Greut 34 74078 Frankenbach DE;4.031;+49 151 355 140;13;Hipp.Nele@my-corp.de
+Wunsch;Harry;sr  software engineer;vice president marketing of sr  software engineer;Im Greut 34 74078 Frankenbach DE;2.012;+49 151 355 141;9;Wunsch.Harry@my-corp.de
+Grewe;Natascha;sr consultant;senior associate consultant of sr consultant;Im Greut 34 74078 Frankenbach DE;3.034;+49 151 355 142;7;Grewe.Natascha@my-corp.de
+Cremer;Diana;senior economist;market research analyst for senior economist;Im Greut 34 74078 Frankenbach DE;3.024;+49 151 355 143;21;Cremer.Diana@my-corp.de
+Paulsen;Elli;client relationship manager;director in charge of client relationship manager;Im Greut 34 74078 Frankenbach DE;3.014;+49 151 355 144;15;Paulsen.Elli@my-corp.de
+Haus;Erno;principal member technical staff;sr director engineering for principal member technical staff;Im Greut 34 74078 Frankenbach DE;3.012;+49 151 355 145;1;Haus.Erno@my-corp.de
+Teubner;Anna;manager  business analytics;adjunct instructor of manager  business analytics;Im Greut 34 74078 Frankenbach DE;4.024;+49 151 355 146;21;Teubner.Anna@my-corp.de
+Vollrath;Eik;senior director  analytics;regional statistician of senior director  analytics;Im Greut 34 74078 Frankenbach DE;3.033;+49 151 355 147;11;Vollrath.Eik@my-corp.de
+Peschke;Eckard;senior advisor;analytic consultant for senior advisor;Im Greut 34 74078 Frankenbach DE;1.021;+49 151 355 148;21;Peschke.Eckard@my-corp.de
+Mayerhofer;Yannick;analytics consultant;project manager for analytics consultant;Im Greut 34 74078 Frankenbach DE;2.011;+49 151 355 149;13;Mayerhofer.Yannick@my-corp.de
+Katzer;Robert;data manager;statistical analysis manager of data manager;Im Greut 34 74078 Frankenbach DE;4.032;+49 151 355 150;19;Katzer.Robert@my-corp.de
+Hildenbrand;Dietger;analytic science   scientist ii;sr  recruiter for analytic science   scientist ii;Im Greut 34 74078 Frankenbach DE;1.023;+49 151 355 151;16;Hildenbran.Dietger@my-corp.de
+Blessing;Egmont;client relationship manager;profesor of client relationship manager;Im Greut 34 74078 Frankenbach DE;3.034;+49 151 355 152;13;Blessing.Egmont@my-corp.de
+Matern;Luis;graduate research assistant;consulting director of graduate research assistant;Im Greut 34 74078 Frankenbach DE;3.022;+49 151 355 153;12;Matern.Luis@my-corp.de
+Stockmann;Nadin;manager talent acquisition;technology architect of manager talent acquisition;Im Greut 34 74078 Frankenbach DE;4.024;+49 151 355 154;17;Stockmann.Nadin@my-corp.de
+Kaiser;Eginhard;marketing;assistant consultant of marketing;Im Greut 34 74078 Frankenbach DE;4.043;+49 151 355 155;22;Kaiser.Eginhard@my-corp.de
+Stiegler;Filiz;investment professional;executive coach for investment professional;Im Greut 34 74078 Frankenbach DE;2.021;+49 151 355 156;11;Stiegler.Filiz@my-corp.de
+Bühner;Dorothea;client relationship manager;business intelligence developer of client relationship manager;Im Greut 34 74078 Frankenbach DE;2.033;+49 151 355 157;17;Bühner.Dorothea@my-corp.de
+Rössler;Wilhelmine;member  board directors;management consultant for member  board directors;Im Greut 34 74078 Frankenbach DE;2.014;+49 151 355 158;3;Rössler.Wilhelmine@my-corp.de
+Nitschke;Eckfried;principal   founder;system analyst of principal   founder;Im Greut 34 74078 Frankenbach DE;2.032;+49 151 355 159;1;Nitschke.Eckfried@my-corp.de
+Wenzl;Martin;sourcing specialist;lead developer of sourcing specialist;Im Greut 34 74078 Frankenbach DE;3.023;+49 151 355 160;9;Wenzl.Martin@my-corp.de
+Sand;Sonja;application developer;consultant statistician for application developer;Im Greut 34 74078 Frankenbach DE;3.033;+49 151 355 161;18;Sand.Sonja@my-corp.de
+Kolberg;Ulrich;exusia  inc ;advanced analytics for exusia  inc ;Im Greut 34 74078 Frankenbach DE;1.043;+49 151 355 162;5;Kolberg.Ulrich@my-corp.de
+Egner;Dorothea;lead scientist;talent acquisition of lead scientist;Im Greut 34 74078 Frankenbach DE;4.011;+49 151 355 163;5;Egner.Dorothea@my-corp.de
+Merz;Karola;president owner;deputy manager for president owner;Im Greut 34 74078 Frankenbach DE;1.012;+49 151 355 164;17;Merz.Karola@my-corp.de
+Grosch;Jan;hr;commercial director of hr;Im Greut 34 74078 Frankenbach DE;4.033;+49 151 355 165;10;Grosch.Jan@my-corp.de
+Reiss;Dethard;director  business analytics;founder   director of director  business analytics;Im Greut 34 74078 Frankenbach DE;3.022;+49 151 355 166;4;Reiss.Dethard@my-corp.de
+Friese;Henni;application engineer;lead recruiter for application engineer;Im Greut 34 74078 Frankenbach DE;4.012;+49 151 355 167;12;Friese.Henni@my-corp.de
+Erler;Lydia;data analyst;senior member technical staff for data analyst;Im Greut 34 74078 Frankenbach DE;3.024;+49 151 355 168;13;Erler.Lydia@my-corp.de
+Bochmann;Katarzyna;administrator;chief executive officer for administrator;Im Greut 34 74078 Frankenbach DE;2.042;+49 151 355 169;3;Bochmann.Katarzyna@my-corp.de
+Sieber;Monique;sr  director  human resources;president owner of sr  director  human resources;Im Greut 34 74078 Frankenbach DE;4.011;+49 151 355 170;5;Sieber.Monique@my-corp.de
+Starke;Gert;staff engineer;client relationship manager for staff engineer;Im Greut 34 74078 Frankenbach DE;2.031;+49 151 355 171;17;Starke.Gert@my-corp.de
+Meinecke;Edith;part time lecturer;senior marketing analyst for part time lecturer;Im Greut 34 74078 Frankenbach DE;3.043;+49 151 355 172;8;Meinecke.Edith@my-corp.de
+Siemer;Eckhold;vp;community manager of vp;Im Greut 34 74078 Frankenbach DE;3.013;+49 151 355 173;9;Siemer.Eckhold@my-corp.de
+Best;Lennart;chief technology officer;technology consultant for chief technology officer;Im Greut 34 74078 Frankenbach DE;4.033;+49 151 355 174;19;Best.Lennart@my-corp.de
+Johannes;Georg;senior analytics manager;system analyst for senior analytics manager;Im Greut 34 74078 Frankenbach DE;4.011;+49 151 355 175;11;Johannes.Georg@my-corp.de
+Albrecht;Werner;principal consultant;director  account management of principal consultant;Im Greut 34 74078 Frankenbach DE;1.044;+49 151 355 176;19;Albrecht.Werner@my-corp.de
+Mengel;Elfriede;exusia  inc ;talent acquisition specialist for exusia  inc ;Im Greut 34 74078 Frankenbach DE;2.033;+49 151 355 177;8;Mengel.Elfriede@my-corp.de
+Bernard;Elly;cto co founder;chief technology officer of cto co founder;Im Greut 34 74078 Frankenbach DE;1.042;+49 151 355 178;4;Bernard.Elly@my-corp.de
+Scheller;Rita;founder managing partner;statistician for founder managing partner;Im Greut 34 74078 Frankenbach DE;1.032;+49 151 355 179;11;Scheller.Rita@my-corp.de
+Dippel;Werner;sr director engineering;technology account manager of sr director engineering;Im Greut 34 74078 Frankenbach DE;2.033;+49 151 355 180;9;Dippel.Werner@my-corp.de
+Caspari;August;senior executive;project manager of senior executive;Im Greut 34 74078 Frankenbach DE;1.033;+49 151 355 181;18;Caspari.August@my-corp.de
+Spies;Daniela;practice head;data analyst for practice head;Im Greut 34 74078 Frankenbach DE;3.033;+49 151 355 182;4;Spies.Daniela@my-corp.de
+Nitschke;Dethard;statistical research analyst;director search marketing of statistical research analyst;Im Greut 34 74078 Frankenbach DE;3.024;+49 151 355 183;1;Nitschke.Dethard@my-corp.de
+Schwan;Helmuth;project consultant;business intelligence analyst for project consultant;Im Greut 34 74078 Frankenbach DE;2.022;+49 151 355 184;10;Schwan.Helmuth@my-corp.de
+Albrecht;Adolf;senior lecturer;manager for senior lecturer;Im Greut 34 74078 Frankenbach DE;2.032;+49 151 355 185;6;Albrecht.Adolf@my-corp.de
+Altmeyer;Miriam;vp  marketing;administrator of vp  marketing;Im Greut 34 74078 Frankenbach DE;3.042;+49 151 355 186;15;Altmeyer.Miriam@my-corp.de
+Bolz;Björn;instructor;sr  program manager of instructor;Im Greut 34 74078 Frankenbach DE;2.041;+49 151 355 187;13;Bolz.Björn@my-corp.de
+Heyer;Claudia;sr  recruiter;co founder  cto of sr  recruiter;Im Greut 34 74078 Frankenbach DE;4.022;+49 151 355 188;6;Heyer.Claudia@my-corp.de
+Keitel;Rolf;assistant;software development engineer ii for assistant;Im Greut 34 74078 Frankenbach DE;1.044;+49 151 355 189;21;Keitel.Rolf@my-corp.de
+Bechtel;Dieter;system analyst;enseignant of system analyst;Im Greut 34 74078 Frankenbach DE;4.013;+49 151 355 190;5;Bechtel.Dieter@my-corp.de
+Schuster;Sylwia;adjunct instructor;quality assurance engineer of adjunct instructor;Im Greut 34 74078 Frankenbach DE;4.013;+49 151 355 191;21;Schuster.Sylwia@my-corp.de
+Licht;Swetlana;consultant owner;manager customer analytics for consultant owner;Im Greut 34 74078 Frankenbach DE;1.041;+49 151 355 192;16;Licht.Swetlana@my-corp.de
+Türk;Willy;founder   director;adjunct instructor of founder   director;Im Greut 34 74078 Frankenbach DE;3.034;+49 151 355 193;6;Türk.Willy@my-corp.de
+Heidrich;Luisa;student;senior statistical analyst for student;Im Greut 34 74078 Frankenbach DE;3.032;+49 151 355 194;14;Heidrich.Luisa@my-corp.de
+Niemeyer;Cornelia;director consulting services;architect of director consulting services;Im Greut 34 74078 Frankenbach DE;2.012;+49 151 355 195;21;Niemeyer.Cornelia@my-corp.de
+Wehr;Detmar;publisher;sr director engineering for publisher;Im Greut 34 74078 Frankenbach DE;2.043;+49 151 355 196;8;Wehr.Detmar@my-corp.de
+Stock;Carla;strategy consultant;senior business intelligence consultant for strategy consultant;Im Greut 34 74078 Frankenbach DE;2.013;+49 151 355 197;16;Stock.Carla@my-corp.de
+Zeitler;Carola;co founder director;research for co founder director;Im Greut 34 74078 Frankenbach DE;4.022;+49 151 355 198;5;Zeitler.Carola@my-corp.de
+Nagler;Sara;sr director engineering;staff software engineer for sr director engineering;Im Greut 34 74078 Frankenbach DE;2.021;+49 151 355 199;13;Nagler.Sara@my-corp.de
+Volk;Janet;senior research analyst;president chief scientist of senior research analyst;Im Greut 34 74078 Frankenbach DE;1.014;+49 151 355 200;19;Volk.Janet@my-corp.de
+Greger;Ina;senior director  marketing analytics;regional sales director for senior director  marketing analytics;Im Greut 34 74078 Frankenbach DE;3.043;+49 151 355 201;18;Greger.Ina@my-corp.de
+Tesch;Lukas;research scientist;owner president of research scientist;Im Greut 34 74078 Frankenbach DE;3.011;+49 151 355 202;19;Tesch.Lukas@my-corp.de
+Dressler;Lennard;business system consultant;program manager of business system consultant;Im Greut 34 74078 Frankenbach DE;1.033;+49 151 355 203;21;Dressler.Lennard@my-corp.de
+Junk;Svantje;investment manager;big data consultant of investment manager;Im Greut 34 74078 Frankenbach DE;1.034;+49 151 355 204;17;Junk.Svantje@my-corp.de
+Rusch;Florian;technical recruiter;data science fellow of technical recruiter;Im Greut 34 74078 Frankenbach DE;2.021;+49 151 355 205;15;Rusch.Florian@my-corp.de
+Radloff;Ingrid;product manager;operations manager for product manager;Im Greut 34 74078 Frankenbach DE;1.013;+49 151 355 206;9;Radloff.Ingrid@my-corp.de
+Brack;Ayse;senior risk analyst;principal dev lead for senior risk analyst;Im Greut 34 74078 Frankenbach DE;2.012;+49 151 355 207;9;Brack.Ayse@my-corp.de
+Rummel;Neele;vice president products;sales consultant of vice president products;Im Greut 34 74078 Frankenbach DE;1.043;+49 151 355 208;13;Rummel.Neele@my-corp.de
+Borgmann;Melanie;contractor;sr  software engineer for contractor;Im Greut 34 74078 Frankenbach DE;3.013;+49 151 355 209;1;Borgmann.Melanie@my-corp.de
+Risse;Engelbrecht;assistant manager;quality engineer of assistant manager;Im Greut 34 74078 Frankenbach DE;1.042;+49 151 355 210;1;Risse.Engelbrech@my-corp.de
+Willems;Nico;head marketing;financial analyst for head marketing;Im Greut 34 74078 Frankenbach DE;3.034;+49 151 355 211;2;Willems.Nico@my-corp.de
+Damm;Lilli;senior statistical analyst;instructor for senior statistical analyst;Im Greut 34 74078 Frankenbach DE;4.014;+49 151 355 212;11;Damm.Lilli@my-corp.de
+Kemmer;Mirja;senior associate consultant;sas developer for senior associate consultant;Im Greut 34 74078 Frankenbach DE;2.043;+49 151 355 213;11;Kemmer.Mirja@my-corp.de
+Speer;Harry;head strategy;application developer of head strategy;Im Greut 34 74078 Frankenbach DE;1.041;+49 151 355 214;9;Speer.Harry@my-corp.de
+Ramm;Volker;director talent;senior recruitment consultant of director talent;Im Greut 34 74078 Frankenbach DE;4.032;+49 151 355 215;11;Ramm.Volker@my-corp.de
+Hendricks;Svetlana;recruiter;senior e recruitment specialist of recruiter;Im Greut 34 74078 Frankenbach DE;4.031;+49 151 355 216;9;Hendricks.Svetlana@my-corp.de
+Sander;Kim;managing principal;coo for managing principal;Im Greut 34 74078 Frankenbach DE;2.023;+49 151 355 217;1;Sander.Kim@my-corp.de
+Lex;Delf;director integrated marketing;talent acquisition manager for director integrated marketing;Im Greut 34 74078 Frankenbach DE;1.032;+49 151 355 218;19;Lex.Delf@my-corp.de
+Freitag;Cindy;senior consultant;executive search consultant for senior consultant;Im Greut 34 74078 Frankenbach DE;1.014;+49 151 355 219;4;Freitag.Cindy@my-corp.de
+Renner;Eberhart;operations research analyst;engagement manager of operations research analyst;Im Greut 34 74078 Frankenbach DE;3.041;+49 151 355 220;7;Renner.Eberhart@my-corp.de
+Kretz;Folkhart;sr recruiter;staff engineer for sr recruiter;Im Greut 34 74078 Frankenbach DE;3.033;+49 151 355 221;14;Kretz.Folkhart@my-corp.de
+Helbing;Michelle;data scientist   manager;senior director engineering of data scientist   manager;Im Greut 34 74078 Frankenbach DE;3.013;+49 151 355 222;7;Helbing.Michelle@my-corp.de
+Wörner;Follrich;operations;market research analyst of operations;Im Greut 34 74078 Frankenbach DE;3.012;+49 151 355 223;21;Wörner.Follrich@my-corp.de
+Weißer;Dominic;business analytics manager;chief analytics officer (cao) of business analytics manager;Im Greut 34 74078 Frankenbach DE;4.033;+49 151 355 224;21;Weißer.Dominic@my-corp.de
+Höppner;Christa;recruitment specialist;senior recruiter for recruitment specialist;Im Greut 34 74078 Frankenbach DE;3.014;+49 151 355 225;6;Höppner.Christa@my-corp.de
+Böhler;Eberhart;business owner;director business development for business owner;Im Greut 34 74078 Frankenbach DE;1.012;+49 151 355 226;6;Böhler.Eberhart@my-corp.de
+Weidemann;Kristiane;enterprise information architect;director  talent acquisition of enterprise information architect;Im Greut 34 74078 Frankenbach DE;4.034;+49 151 355 227;9;Weidemann.Kristiane@my-corp.de
+Rauch;Elmar;manager  business analytics;solution architect of manager  business analytics;Im Greut 34 74078 Frankenbach DE;4.012;+49 151 355 228;22;Rauch.Elmar@my-corp.de
+Schuster;Irma;associate partner;sales representative of associate partner;Im Greut 34 74078 Frankenbach DE;2.042;+49 151 355 229;16;Schuster.Irma@my-corp.de
+Bönisch;Eckehard;avp;bi analyst for avp;Im Greut 34 74078 Frankenbach DE;3.022;+49 151 355 230;13;Bönisch.Eckehard@my-corp.de
+Kortmann;Melissa;bdi systems technologies pvt ltd;founder managing partner for bdi systems technologies pvt ltd;Im Greut 34 74078 Frankenbach DE;4.042;+49 151 355 231;14;Kortmann.Melissa@my-corp.de
+Mehl;Lydia;board directors member;associate manager of board directors member;Am Heckerpfad 9 84419 Würth DE;2.043;+49 151 355 232;9;Mehl.Lydia@my-corp.de
+Rottmann;Tania;assistant manager;chief information officer for assistant manager;Am Heckerpfad 9 84419 Würth DE;4.043;+49 151 355 233;2;Rottmann.Tania@my-corp.de
+Haberl;Celina;senior solutions architect;research analyst for senior solutions architect;Am Heckerpfad 9 84419 Würth DE;3.033;+49 151 355 234;13;Haberl.Celina@my-corp.de
+Franke;Erdmann;senior recruitment consultant;independent of senior recruitment consultant;Am Heckerpfad 9 84419 Würth DE;3.024;+49 151 355 235;19;Franke.Erdmann@my-corp.de
+Peters;Liselotte;vice president analytics;principal research manager of vice president analytics;Am Heckerpfad 9 84419 Würth DE;1.042;+49 151 355 236;13;Peters.Liselotte@my-corp.de
+Kämpf;Luise;data scientist   consultant;oracle of data scientist   consultant;Am Heckerpfad 9 84419 Würth DE;1.031;+49 151 355 237;7;Kämpf.Luise@my-corp.de
+Hammer;Dirk;risk manager;founder   president for risk manager;Am Heckerpfad 15 84425 Würth DE;4.031;+49 151 355 238;5;Hammer.Dirk@my-corp.de
+Schwager;Janett;vice president  human resources;market research analyst for vice president  human resources;Am Heckerpfad 16 84426 Würth DE;2.042;+49 151 355 239;1;Schwager.Janett@my-corp.de
+Tauber;Regina;vp engineering;lead consultant of vp engineering;Am Heckerpfad 17 84427 Würth DE;3.021;+49 151 355 240;6;Tauber.Regina@my-corp.de
+Heinicke;Sofie;market research analyst;operations for market research analyst;Am Ausee 28 84175 Vilssattling, Bayern DE;4.042;+49 151 355 241;17;Heinicke.Sofie@my-corp.de
+Beckert;Viktoria;founder director;principal   founder of founder director;Am Ausee 28 84175 Vilssattling, Bayern DE;3.021;+49 151 355 242;13;Beckert.Viktoria@my-corp.de
+Borowski;Svenja;director search marketing;sr  recruiter of director search marketing;Am Ausee 28 84175 Vilssattling, Bayern DE;3.023;+49 151 355 243;4;Borowski.Svenja@my-corp.de
+Wegner;Elbert;talent acquisition manager;manager talent acquisition of talent acquisition manager;Am Ausee 28 84175 Vilssattling, Bayern DE;3.034;+49 151 355 244;10;Wegner.Elbert@my-corp.de
+Eckert;Verena;project manager;global conference director for project manager;Am Ausee 28 84175 Vilssattling, Bayern DE;4.043;+49 151 355 245;16;Eckert.Verena@my-corp.de
+Haimerl;Florentin;analytic science   scientist ii;senior director engineering for analytic science   scientist ii;Am Ausee 28 84175 Vilssattling, Bayern DE;4.021;+49 151 355 246;6;Haimerl.Florentin@my-corp.de
+Hermanns;Dagobert;information management specialist;recruiting manager for information management specialist;Am Ausee 28 84175 Vilssattling, Bayern DE;3.042;+49 151 355 247;4;Hermanns.Dagobert@my-corp.de
+Schimmelpfennig;Erwin;analysis manager;owner director for analysis manager;Am Ausee 28 84175 Vilssattling, Bayern DE;1.044;+49 151 355 248;17;Schimmelpf.Erwin@my-corp.de
+Kögler;Edwin;bi developer;client relationship manager of bi developer;Am Ausee 28 84175 Vilssattling, Bayern DE;4.022;+49 151 355 249;22;Kögler.Edwin@my-corp.de
+Behrend;Paula;senior manager  analytics;project consultant for senior manager  analytics;Am Ausee 28 84175 Vilssattling, Bayern DE;2.011;+49 151 355 250;2;Behrend.Paula@my-corp.de
+Gärtner;Magdalena;information management specialist;sourcing specialist of information management specialist;Am Ausee 28 84175 Vilssattling, Bayern DE;3.022;+49 151 355 251;13;Gärtner.Magdalena@my-corp.de
+Rutz;Lars;assistant manager;sr  account manager of assistant manager;Am Ausee 28 84175 Vilssattling, Bayern DE;1.032;+49 151 355 252;10;Rutz.Lars@my-corp.de
+Matthias;Christian;assistant manager;founder   principal for assistant manager;Am Ausee 28 84175 Vilssattling, Bayern DE;4.031;+49 151 355 253;22;Matthias.Christian@my-corp.de
+Wenz;Dietwalt;database administrator;r d director of database administrator;Am Ausee 28 84175 Vilssattling, Bayern DE;4.022;+49 151 355 254;9;Wenz.Dietwalt@my-corp.de
+Thielemann;Margrit;director  product management;sr  software engineer for director  product management;Am Ausee 28 84175 Vilssattling, Bayern DE;2.011;+49 151 355 255;12;Thielemann.Margrit@my-corp.de
+Mende;Agnieszka;enseignant;research scientist of enseignant;Am Ausee 28 84175 Vilssattling, Bayern DE;1.013;+49 151 355 256;10;Mende.Agnieszka@my-corp.de
+Meurer;Kathleen;managing principal;advisor for managing principal;Am Ausee 28 84175 Vilssattling, Bayern DE;4.042;+49 151 355 257;2;Meurer.Kathleen@my-corp.de
+Funk;Dimitri;manager;board directors for manager;Am Ausee 28 84175 Vilssattling, Bayern DE;4.031;+49 151 355 258;6;Funk.Dimitri@my-corp.de
+Engler;Egmont;recruiter;engineering program manager for recruiter;Am Ausee 28 84175 Vilssattling, Bayern DE;3.014;+49 151 355 259;22;Engler.Egmont@my-corp.de
+Schlick;Katarina;hewlett packard;lead solutions architect of hewlett packard;Am Ausee 28 84175 Vilssattling, Bayern DE;2.021;+49 151 355 260;22;Schlick.Katarina@my-corp.de
+Schorr;Ferdinandus;vice president  business development;hr manager of vice president  business development;Am Ausee 28 84175 Vilssattling, Bayern DE;1.044;+49 151 355 261;22;Schorr.Ferdinandu@my-corp.de
+Seufert;Hugo;vice president sales;big data consultant of vice president sales;Am Ausee 28 84175 Vilssattling, Bayern DE;2.033;+49 151 355 262;10;Seufert.Hugo@my-corp.de
+Heins;Janina;senior advisor;project lead of senior advisor;An der Beke 8 13465 Berlin DE;3.044;+49 151 355 263;10;Heins.Janina@my-corp.de
+Drechsel;Nele;director analytics;sr  director for director analytics;An der Beke 8 13465 Berlin DE;3.034;+49 151 355 264;12;Drechsel.Nele@my-corp.de
+Deckert;Folkhart;regional sales manager;senior system engineer for regional sales manager;An der Beke 8 13465 Berlin DE;1.013;+49 151 355 265;6;Deckert.Folkhart@my-corp.de
+Schroer;Anneliese;business data analyst;senior data scientist of business data analyst;An der Beke 8 13465 Berlin DE;3.013;+49 151 355 266;14;Schroer.Anneliese@my-corp.de
+Rohloff;Dankfried;ph d  candidate;cognizant technology solutions of ph d  candidate;An der Beke 8 13465 Berlin DE;4.032;+49 151 355 267;20;Rohloff.Dankfried@my-corp.de
+Hartwig;Lilly;database marketing analyst;data miner for database marketing analyst;An der Beke 8 13465 Berlin DE;2.041;+49 151 355 268;22;Hartwig.Lilly@my-corp.de
+Holstein;Luca;senior director  product management;vp of senior director  product management;An der Beke 8 13465 Berlin DE;1.011;+49 151 355 269;19;Holstein.Luca@my-corp.de
+Schnur;Emma;senior statistical analyst;senior data science analyst for senior statistical analyst;An der Beke 8 13465 Berlin DE;3.014;+49 151 355 270;12;Schnur.Emma@my-corp.de
+Siemens;Erhardt;senior web analyst;marketing analytics of senior web analyst;An der Beke 8 13465 Berlin DE;2.022;+49 151 355 271;21;Siemens.Erhardt@my-corp.de
+Jentzsch;August;data science fellow;director business development of data science fellow;An der Beke 8 13465 Berlin DE;2.013;+49 151 355 272;1;Jentzsch.August@my-corp.de
+Bacher;Martina;risk consultant;vp  data scientist for risk consultant;An der Beke 8 13465 Berlin DE;3.013;+49 151 355 273;14;Bacher.Martina@my-corp.de
+Hill;Emily;data manager;project director for data manager;An der Beke 8 13465 Berlin DE;1.044;+49 151 355 274;20;Hill.Emily@my-corp.de
+Hilger;Philip;marketing analytics;sr director engineering for marketing analytics;An der Beke 8 13465 Berlin DE;2.041;+49 151 355 275;4;Hilger.Philip@my-corp.de
+Bösch;Dietfried;associate partner;strategic account manager of associate partner;An der Beke 8 13465 Berlin DE;1.041;+49 151 355 276;11;Bösch.Dietfried@my-corp.de
+Sandner;Fabian;systems architect;client relationship manager of systems architect;An der Beke 8 13465 Berlin DE;4.021;+49 151 355 277;10;Sandner.Fabian@my-corp.de
+Fritze;Harald;vice president  product management;practice head of vice president  product management;An der Beke 8 13465 Berlin DE;3.021;+49 151 355 278;2;Fritze.Harald@my-corp.de
+Traub;Rebecca;vice president marketing;senior executive for vice president marketing;An der Beke 8 13465 Berlin DE;2.021;+49 151 355 279;4;Traub.Rebecca@my-corp.de
+Rupprecht;Torsten;director product development;technical specialist for director product development;An der Beke 8 13465 Berlin DE;3.032;+49 151 355 280;13;Rupprecht.Torsten@my-corp.de
+Hänsel;Gert;director product marketing;sr director engineering of director product marketing;An der Beke 8 13465 Berlin DE;4.043;+49 151 355 281;7;Hänsel.Gert@my-corp.de
+Küsters;Egmont;systems analyst;coordinator of systems analyst;An der Beke 8 13465 Berlin DE;3.033;+49 151 355 282;10;Küsters.Egmont@my-corp.de
+Große;Fritz;senior research fellow;chair of senior research fellow;An der Beke 8 13465 Berlin DE;1.014;+49 151 355 283;8;Große.Fritz@my-corp.de
+Reis;Ewald;enterprise information architect;business intelligence manager for enterprise information architect;An der Beke 8 13465 Berlin DE;4.043;+49 151 355 284;10;Reis.Ewald@my-corp.de
+Göhring;Verena;president founder;database marketing analyst of president founder;An der Beke 8 13465 Berlin DE;4.031;+49 151 355 285;18;Göhring.Verena@my-corp.de
+Rauscher;Mirjam;principal scientist;director   founder of principal scientist;An der Beke 8 13465 Berlin DE;1.014;+49 151 355 286;4;Rauscher.Mirjam@my-corp.de
+Meisel;Kristian;research engineer;sr  account manager for research engineer;An der Beke 8 13465 Berlin DE;3.022;+49 151 355 287;8;Meisel.Kristian@my-corp.de
+Hierl;Jannik;director  advisory services;avp   analytics for director  advisory services;An der Beke 8 13465 Berlin DE;2.011;+49 151 355 288;15;Hierl.Jannik@my-corp.de
+Klingler;Eberhard;director marketing;global conference director for director marketing;An der Beke 8 13465 Berlin DE;2.013;+49 151 355 289;3;Klingler.Eberhard@my-corp.de
+Moser;Dominik;lead technical recruiter;quadratic insights pvt  ltd  of lead technical recruiter;An der Beke 8 13465 Berlin DE;4.013;+49 151 355 290;22;Moser.Dominik@my-corp.de
+Tacke;Delf;visiting assistant professor;director  talent acquisition of visiting assistant professor;An der Beke 8 13465 Berlin DE;4.013;+49 151 355 291;2;Tacke.Delf@my-corp.de
+Kölsch;Eitelbert;chief revenue officer;data mining manager of chief revenue officer;An der Beke 8 13465 Berlin DE;4.011;+49 151 355 292;21;Kölsch.Eitelbert@my-corp.de
+Spieß;Leoni;quadratic insights pvt  ltd ;sourcing specialist of quadratic insights pvt  ltd ;An der Beke 8 13465 Berlin DE;4.022;+49 151 355 293;16;Spieß.Leoni@my-corp.de
+Schiffer;Falkmar;big data scientist;data science consultant for big data scientist;An der Beke 8 13465 Berlin DE;2.041;+49 151 355 294;2;Schiffer.Falkmar@my-corp.de
+Figge;Günther;web analyst;principal architect of web analyst;An der Beke 8 13465 Berlin DE;2.014;+49 151 355 295;10;Figge.Günther@my-corp.de
+Mauch;Franziska;teaching assistant;resource manager for teaching assistant;An der Beke 8 13465 Berlin DE;3.012;+49 151 355 296;5;Mauch.Franziska@my-corp.de
+Tempel;Vera;risk consultant;associate business analyst of risk consultant;An der Beke 8 13465 Berlin DE;4.022;+49 151 355 297;15;Tempel.Vera@my-corp.de
+Erb;Dietbald;software engineer;managing partner of software engineer;An der Beke 8 13465 Berlin DE;1.042;+49 151 355 298;4;Erb.Dietbald@my-corp.de
+Esch;Monika;executive search consultant;director human resources of executive search consultant;An der Beke 8 13465 Berlin DE;3.033;+49 151 355 299;3;Esch.Monika@my-corp.de
+Schöll;Justin;senior corporate recruiter;advanced analytics of senior corporate recruiter;An der Beke 8 13465 Berlin DE;2.041;+49 151 355 300;21;Schöll.Justin@my-corp.de
+Görg;Eckehart;investment professional;sr director engineering of investment professional;An der Beke 8 13465 Berlin DE;3.023;+49 151 355 301;5;Görg.Eckehart@my-corp.de
+Höhne;Torsten;chief revenue officer;business analyst for chief revenue officer;An der Beke 8 13465 Berlin DE;2.013;+49 151 355 302;18;Höhne.Torsten@my-corp.de
+Schwaiger;Erhart;human resources;private tutor of human resources;An der Beke 8 13465 Berlin DE;3.043;+49 151 355 303;6;Schwaiger.Erhart@my-corp.de
+Junge;Ferdinandus;director  data analytics;risk consultant of director  data analytics;An der Beke 8 13465 Berlin DE;2.042;+49 151 355 304;6;Junge.Ferdinandu@my-corp.de
+Gaida;Stefanie;chief information officer;sales consultant for chief information officer;An der Beke 8 13465 Berlin DE;3.042;+49 151 355 305;7;Gaida.Stefanie@my-corp.de
+Kahlert;Thomas;executive coach;talent acquisition partner of executive coach;An der Beke 8 13465 Berlin DE;2.024;+49 151 355 306;1;Kahlert.Thomas@my-corp.de
+Schwager;Barbara;recruitment manager;senior researcher of recruitment manager;An der Beke 8 13465 Berlin DE;1.022;+49 151 355 307;21;Schwager.Barbara@my-corp.de
+Palm;Lucas;system analyst;capgemini of system analyst;An der Beke 8 13465 Berlin DE;1.023;+49 151 355 308;18;Palm.Lucas@my-corp.de
+Träger;Jörg;sourcing specialist;principal member technical staff for sourcing specialist;An der Beke 8 13465 Berlin DE;3.021;+49 151 355 309;14;Träger.Jörg@my-corp.de
+Binder;Kathleen;head analytics;system analyst of head analytics;An der Beke 8 13465 Berlin DE;3.031;+49 151 355 310;19;Binder.Kathleen@my-corp.de
+Kuhl;Jonas;visiting professor;founder managing partner of visiting professor;An der Beke 8 13465 Berlin DE;4.043;+49 151 355 311;15;Kuhl.Jonas@my-corp.de
+Steinke;Nils;sr  data modeler;senior corporate recruiter for sr  data modeler;An der Beke 8 13465 Berlin DE;3.023;+49 151 355 312;5;Steinke.Nils@my-corp.de
+Traut;Adolf;business analytics intern;machine learning scientist of business analytics intern;An der Beke 8 13465 Berlin DE;4.033;+49 151 355 313;5;Traut.Adolf@my-corp.de
+Koenen;Elkmar;board directors;technical recruiter of board directors;An der Beke 8 13465 Berlin DE;2.032;+49 151 355 314;16;Koenen.Elkmar@my-corp.de
+Dippel;Vera;director integrated marketing;saama technologies of director integrated marketing;An der Beke 8 13465 Berlin DE;3.014;+49 151 355 315;7;Dippel.Vera@my-corp.de
+Wiens;Erna;senior executive recruiter;lead engineer of senior executive recruiter;An der Beke 8 13465 Berlin DE;3.014;+49 151 355 316;4;Wiens.Erna@my-corp.de
+Fürst;Dieterich;business development manager;founder managing director of business development manager;An der Beke 8 13465 Berlin DE;1.044;+49 151 355 317;15;Fürst.Dieterich@my-corp.de
+Schmieder;Eddi;mathematical statistician;research engineer for mathematical statistician;An der Beke 8 13465 Berlin DE;4.043;+49 151 355 318;17;Schmieder.Eddi@my-corp.de
+Borchardt;Olga;principal data scientist;risk management consultant of principal data scientist;An der Beke 8 13465 Berlin DE;4.022;+49 151 355 319;4;Borchardt.Olga@my-corp.de
+Behrendt;Fabian;senior associate consultant;vp sales for senior associate consultant;An der Beke 8 13465 Berlin DE;1.023;+49 151 355 320;6;Behrendt.Fabian@my-corp.de
+Birke;Rudolph;consulting director;collabera of consulting director;An der Beke 8 13465 Berlin DE;3.021;+49 151 355 321;1;Birke.Rudolph@my-corp.de
+Kilian;Dörte;president   owner;data science fellow of president   owner;An der Beke 8 13465 Berlin DE;3.011;+49 151 355 322;13;Kilian.Dörte@my-corp.de
+Buse;Agnieszka;credit risk analyst;scientist for credit risk analyst;An der Beke 8 13465 Berlin DE;2.012;+49 151 355 323;19;Buse.Agnieszka@my-corp.de
+Lietz;Erhardt;quality assurance engineer;business development executive of quality assurance engineer;An der Beke 8 13465 Berlin DE;4.023;+49 151 355 324;11;Lietz.Erhardt@my-corp.de
+Reh;Diethard;senior account manager;director  strategy consulting for senior account manager;An der Beke 8 13465 Berlin DE;3.011;+49 151 355 325;11;Reh.Diethard@my-corp.de
+Schöning;Bettina;regional sales manager;data warehouse consultant of regional sales manager;An der Beke 8 13465 Berlin DE;1.041;+49 151 355 326;1;Schöning.Bettina@my-corp.de
+Rödiger;Dittmar;capgemini;it manager of capgemini;An der Beke 8 13465 Berlin DE;2.031;+49 151 355 327;18;Rödiger.Dittmar@my-corp.de
+Reitz;Olaf;statistics   analytics;quality assurance engineer for statistics   analytics;An der Beke 8 13465 Berlin DE;4.043;+49 151 355 328;8;Reitz.Olaf@my-corp.de
+Leonhard;Annemarie;web analytics manager;project manager for web analytics manager;An der Beke 8 13465 Berlin DE;4.012;+49 151 355 329;11;Leonhard.Annemarie@my-corp.de
+Offermann;Gabriele;program manager;hadoop developer for program manager;An der Beke 8 13465 Berlin DE;1.022;+49 151 355 330;2;Offermann.Gabriele@my-corp.de
+Bäumler;Annie;data anayltics professional;manager for data anayltics professional;An der Beke 8 13465 Berlin DE;4.013;+49 151 355 331;13;Bäumler.Annie@my-corp.de
+Bacher;Engelhard;president chief scientist;sr  talent acquisition consultant of president chief scientist;An der Beke 8 13465 Berlin DE;4.021;+49 151 355 332;21;Bacher.Engelhard@my-corp.de
+Grünewald;Folkhardt;senior e recruitment specialist;sr  consultant of senior e recruitment specialist;An der Beke 8 13465 Berlin DE;4.024;+49 151 355 333;22;Grünewald.Folkhardt@my-corp.de
+Pflug;Tanja;founder;sas developer of founder;An der Beke 8 13465 Berlin DE;3.041;+49 151 355 334;13;Pflug.Tanja@my-corp.de
+Preuss;Kornelia;senior research analyst;engineering program manager of senior research analyst;An der Beke 8 13465 Berlin DE;4.011;+49 151 355 335;15;Preuss.Kornelia@my-corp.de
+Hamm;Dorothee;staff data scientist;division director of staff data scientist;An der Beke 8 13465 Berlin DE;2.043;+49 151 355 336;6;Hamm.Dorothee@my-corp.de
+Keller;Anika;senior solutions consultant;quality assurance engineer of senior solutions consultant;An der Beke 8 13465 Berlin DE;1.044;+49 151 355 337;1;Keller.Anika@my-corp.de
+Korth;Joachim;client relationship manager;operations research analyst for client relationship manager;An der Beke 8 13465 Berlin DE;2.014;+49 151 355 338;4;Korth.Joachim@my-corp.de
+Holzwarth;Holger;member technical staff;executive recruiter of member technical staff;An der Beke 8 13465 Berlin DE;2.044;+49 151 355 339;3;Holzwarth.Holger@my-corp.de
+Unger;Rolf;associate vice president;project leader for associate vice president;An der Beke 8 13465 Berlin DE;1.022;+49 151 355 340;5;Unger.Rolf@my-corp.de
+Klocke;Ute;student;principal of student;An der Beke 8 13465 Berlin DE;3.042;+49 151 355 341;22;Klocke.Ute@my-corp.de
+Domke;Dietwald;senior data specialist;it recruiter of senior data specialist;An der Beke 8 13465 Berlin DE;3.013;+49 151 355 342;14;Domke.Dietwald@my-corp.de
+Borowski;Falk;developer;dmr for developer;An der Beke 8 13465 Berlin DE;4.024;+49 151 355 343;1;Borowski.Falk@my-corp.de
+Stoll;Elbert;software architect;project lead for software architect;An der Beke 8 13465 Berlin DE;3.043;+49 151 355 344;19;Stoll.Elbert@my-corp.de
+Drechsler;Dietz;sales executive;system analyst of sales executive;An der Beke 8 13465 Berlin DE;4.021;+49 151 355 345;4;Drechsler.Dietz@my-corp.de
+Fritze;Irina;sr  director  human resources;sr  hr generalist of sr  director  human resources;An der Beke 8 13465 Berlin DE;2.034;+49 151 355 346;18;Fritze.Irina@my-corp.de
+Görlich;Maja;president owner;sr director engineering for president owner;An der Beke 8 13465 Berlin DE;4.021;+49 151 355 347;20;Görlich.Maja@my-corp.de
+Baumgärtel;Lotte;founder   director;president chief scientist of founder   director;An der Beke 8 13465 Berlin DE;4.011;+49 151 355 348;12;Baumgärtel.Lotte@my-corp.de
+Triebel;Christian;co founder   cto;senior analytics consultant of co founder   cto;An der Beke 8 13465 Berlin DE;3.033;+49 151 355 349;10;Triebel.Christian@my-corp.de
+Plate;Eckart;principal software engineer;it recruiter of principal software engineer;An der Beke 8 13465 Berlin DE;4.041;+49 151 355 350;9;Plate.Eckart@my-corp.de
+Strehl;Emmerich;senior developer;founder president for senior developer;An der Beke 8 13465 Berlin DE;1.041;+49 151 355 351;20;Strehl.Emmerich@my-corp.de
+Jankowski;Eduard;executive vice president;vp marketing science of executive vice president;An der Beke 8 13465 Berlin DE;1.021;+49 151 355 352;2;Jankowski.Eduard@my-corp.de
+Lösch;Didi;principal software engineer;risk analyst of principal software engineer;An der Beke 8 13465 Berlin DE;3.022;+49 151 355 353;8;Lösch.Didi@my-corp.de
+Dröge;Folkhart;big data consultant;associate consultant of big data consultant;An der Beke 8 13465 Berlin DE;2.043;+49 151 355 354;22;Dröge.Folkhart@my-corp.de
+Stern;Nadja;lead recruiter;machine learning scientist for lead recruiter;An der Beke 8 13465 Berlin DE;2.024;+49 151 355 355;19;Stern.Nadja@my-corp.de
+Wurster;Yannic;it manager;machine learning scientist for it manager;An der Beke 8 13465 Berlin DE;3.043;+49 151 355 356;16;Wurster.Yannic@my-corp.de
+Tillmann;Erfried;executive assistant;director research of executive assistant;An der Beke 8 13465 Berlin DE;1.042;+49 151 355 357;17;Tillmann.Erfried@my-corp.de
+Krauß;Isabel;senior data science analyst;data science intern of senior data science analyst;An der Beke 8 13465 Berlin DE;4.024;+49 151 355 358;17;Krauß.Isabel@my-corp.de
+Kück;Dörthe;senior director  talent acquisition;delivery manager for senior director  talent acquisition;An der Beke 8 13465 Berlin DE;4.042;+49 151 355 359;3;Kück.Dörthe@my-corp.de
+Clemens;Niels;volunteer;manager analytics for volunteer;An der Beke 8 13465 Berlin DE;3.041;+49 151 355 360;1;Clemens.Niels@my-corp.de
+Schuhmann;Florenz;manager;founder   principal of manager;An der Beke 8 13465 Berlin DE;2.021;+49 151 355 361;15;Schuhmann.Florenz@my-corp.de
+Gruner;Wera;sourcing specialist;director product marketing of sourcing specialist;An der Beke 8 13465 Berlin DE;2.012;+49 151 355 362;7;Gruner.Wera@my-corp.de
+Rank;Ehrhard;sr  recruiter;division director of sr  recruiter;An der Beke 8 13465 Berlin DE;2.042;+49 151 355 363;4;Rank.Ehrhard@my-corp.de
+Engelhard;Diethart;bi architect;sales consultant for bi architect;An der Beke 8 13465 Berlin DE;1.043;+49 151 355 364;22;Engelhard.Diethart@my-corp.de
+Kögel;Marvin;vice president marketing;senior architect for vice president marketing;An der Beke 8 13465 Berlin DE;2.033;+49 151 355 365;4;Kögel.Marvin@my-corp.de
+Philipp;Dirk;business owner;faculty for business owner;An der Beke 8 13465 Berlin DE;1.031;+49 151 355 366;5;Philipp.Dirk@my-corp.de
+Zielke;Dietwulf;head research;recruiting coordinator for head research;An der Beke 8 13465 Berlin DE;1.013;+49 151 355 367;11;Zielke.Dietwulf@my-corp.de
+Schwab;André;senior analytics consultant;search consultant of senior analytics consultant;An der Beke 8 13465 Berlin DE;1.014;+49 151 355 368;3;Schwab.André@my-corp.de
+Knoblauch;Juliane;head data science;product manager for head data science;An der Beke 8 13465 Berlin DE;1.024;+49 151 355 369;12;Knoblauch.Juliane@my-corp.de
+Blessing;Elias;research scholar;data anayltics professional of research scholar;An der Beke 8 13465 Berlin DE;2.013;+49 151 355 370;18;Blessing.Elias@my-corp.de
+Seliger;Lars;risk management consultant;sas developer for risk management consultant;An der Beke 8 13465 Berlin DE;3.041;+49 151 355 371;12;Seliger.Lars@my-corp.de
+Heidrich;Andre;independent consultant;director  business analytics for independent consultant;An der Beke 8 13465 Berlin DE;1.042;+49 151 355 372;10;Heidrich.Andre@my-corp.de
+Putz;Emma;data engineer;managing principal for data engineer;An der Beke 8 13465 Berlin DE;1.042;+49 151 355 373;8;Putz.Emma@my-corp.de
+Giesen;Annica;managing director;manager of managing director;An der Beke 8 13465 Berlin DE;1.042;+49 151 355 374;15;Giesen.Annica@my-corp.de
+Böhnke;Julian;principal member technical staff;business development for principal member technical staff;An der Beke 8 13465 Berlin DE;2.033;+49 151 355 375;21;Böhnke.Julian@my-corp.de
+Westphal;Viktoria;analytics professional;executive recruiter of analytics professional;An der Beke 8 13465 Berlin DE;3.011;+49 151 355 376;12;Westphal.Viktoria@my-corp.de
+Bräuer;Günther;senior recruiter;vp for senior recruiter;An der Beke 8 13465 Berlin DE;1.011;+49 151 355 377;8;Bräuer.Günther@my-corp.de
+Ludwig;Marion;chief operating officer;marketing director of chief operating officer;An der Beke 8 13465 Berlin DE;2.032;+49 151 355 378;22;Ludwig.Marion@my-corp.de
+Theis;Christel;quantitative trader;director   founder for quantitative trader;An der Beke 8 13465 Berlin DE;4.024;+49 151 355 379;19;Theis.Christel@my-corp.de
+Riegel;Sylwia;data science manager;sr  manager of data science manager;An der Beke 8 13465 Berlin DE;1.024;+49 151 355 380;8;Riegel.Sylwia@my-corp.de
+Schiffer;Tom;founder   director;director for founder   director;An der Beke 8 13465 Berlin DE;1.022;+49 151 355 381;21;Schiffer.Tom@my-corp.de
+Liebmann;Justin;system analyst;technology recruiter for system analyst;An der Beke 8 13465 Berlin DE;3.033;+49 151 355 382;10;Liebmann.Justin@my-corp.de
+Tremmel;Marianne;chief revenue officer;chief science officer of chief revenue officer;An der Beke 8 13465 Berlin DE;2.024;+49 151 355 383;10;Tremmel.Marianne@my-corp.de
+Poppe;Elbert;sourcing specialist;senior analyst of sourcing specialist;An der Beke 8 13465 Berlin DE;2.014;+49 151 355 384;4;Poppe.Elbert@my-corp.de
+Plath;Dietgar;quadratic insights pvt  ltd ;sr sas consultant of quadratic insights pvt  ltd ;An der Beke 8 13465 Berlin DE;1.011;+49 151 355 385;10;Plath.Dietgar@my-corp.de
+Topp;Dietrich;manager;senior researcher of manager;An der Beke 8 13465 Berlin DE;2.031;+49 151 355 386;10;Topp.Dietrich@my-corp.de
+Stumm;Eberhardt;vp engineering;associate director for vp engineering;An der Beke 8 13465 Berlin DE;4.042;+49 151 355 387;11;Stumm.Eberhardt@my-corp.de
+Rademacher;Edwin;co founder   coo;proprietor for co founder   coo;An der Beke 8 13465 Berlin DE;3.012;+49 151 355 388;7;Rademacher.Edwin@my-corp.de
+Otto;Leonie;founder   director;cto founder of founder   director;An der Beke 8 13465 Berlin DE;1.031;+49 151 355 389;15;Otto.Leonie@my-corp.de
+Sutter;Dennis;senior recruiter;manager data analytics of senior recruiter;An der Beke 8 13465 Berlin DE;1.043;+49 151 355 390;11;Sutter.Dennis@my-corp.de
+Glatz;Christiane;quality assurance engineer;staff scientist for quality assurance engineer;An der Beke 8 13465 Berlin DE;1.044;+49 151 355 391;20;Glatz.Christiane@my-corp.de
+Homann;Diethard;editorial board member;senior software development engineer of editorial board member;An der Beke 8 13465 Berlin DE;1.022;+49 151 355 392;18;Homann.Diethard@my-corp.de
+Goldberg;Karina;data scientist;digital consultant for data scientist;An der Beke 8 13465 Berlin DE;3.022;+49 151 355 393;22;Goldberg.Karina@my-corp.de
+Mildner;Dietgar;principal data scientist;chief data scientist for principal data scientist;An der Beke 8 13465 Berlin DE;4.014;+49 151 355 394;12;Mildner.Dietgar@my-corp.de
+Rist;Dietwald;senior data analyst;bi analyst of senior data analyst;An der Beke 8 13465 Berlin DE;4.034;+49 151 355 395;2;Rist.Dietwald@my-corp.de
+Marschner;Sascha;technology architect;business intelligence engineer for technology architect;An der Beke 8 13465 Berlin DE;3.034;+49 151 355 396;1;Marschner.Sascha@my-corp.de
+Behn;Jan;board advisors;director talent acquisition of board advisors;An der Beke 8 13465 Berlin DE;1.033;+49 151 355 397;2;Behn.Jan@my-corp.de
+Steinbach;Eckart;client relationship manager;project manager of client relationship manager;An der Beke 8 13465 Berlin DE;1.031;+49 151 355 398;9;Steinbach.Eckart@my-corp.de
+Ziegler;Ferdi;senior corporate recruiter;operations manager for senior corporate recruiter;An der Beke 8 13465 Berlin DE;1.013;+49 151 355 399;4;Ziegler.Ferdi@my-corp.de
+Lührs;Georg;project manager;co founder   director for project manager;An der Beke 8 13465 Berlin DE;4.024;+49 151 355 400;21;Lührs.Georg@my-corp.de
+Hieber;Wolfgang;part time lecturer;consultant statistician of part time lecturer;An der Beke 8 13465 Berlin DE;4.021;+49 151 355 401;16;Hieber.Wolfgang@my-corp.de
+Miller;Rudolf;director  talent acquisition;teaching assistant of director  talent acquisition;An der Beke 8 13465 Berlin DE;1.032;+49 151 355 402;17;Miller.Rudolf@my-corp.de
+Richert;Ekhard;business development executive;project consultant for business development executive;An der Beke 8 13465 Berlin DE;4.033;+49 151 355 403;7;Richert.Ekhard@my-corp.de
+Bock;Egon;systems analyst;director research for systems analyst;An der Beke 8 13465 Berlin DE;1.023;+49 151 355 404;13;Bock.Egon@my-corp.de
+Häuser;Nick;adjunct instructor;application developer of adjunct instructor;An der Beke 8 13465 Berlin DE;2.014;+49 151 355 405;9;Häuser.Nick@my-corp.de
+Ferstl;Egmont;it manager;associate manager of it manager;An der Beke 8 13465 Berlin DE;2.014;+49 151 355 406;15;Ferstl.Egmont@my-corp.de
+Köppen;Edelbert;founder   president;senior solutions architect of founder   president;An der Beke 8 13465 Berlin DE;2.033;+49 151 355 407;21;Köppen.Edelbert@my-corp.de
+Menzel;Erhart;client relationship manager;senior biostatistician for client relationship manager;An der Beke 8 13465 Berlin DE;3.011;+49 151 355 408;6;Menzel.Erhart@my-corp.de
+Schneider;Susan;hr business partner;executive search consultant of hr business partner;An der Beke 8 13465 Berlin DE;4.014;+49 151 355 409;2;Schneider.Susan@my-corp.de
+Gebhard;Dietbald;analytics specialist;marketing analytics for analytics specialist;An der Beke 8 13465 Berlin DE;2.024;+49 151 355 410;8;Gebhard.Dietbald@my-corp.de
+Wrobel;Emmeran;postdoctoral researcher;editor for postdoctoral researcher;An der Beke 8 13465 Berlin DE;4.014;+49 151 355 411;21;Wrobel.Emmeran@my-corp.de

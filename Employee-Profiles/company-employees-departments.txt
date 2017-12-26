@@ -1,0 +1,22 @@
+1;Accounting
+2;Analytics
+3;CAD & FEM
+4;Customer Support
+5;Fleet Management
+6;IT
+7;Legal
+8;Logistics
+9;Management
+10;Manufacturing
+11;Marketing
+12;Product Innovation
+13;Product Management
+14;Production Planning
+15;Purchasing
+16;Quality Control
+17;Sales
+18;Shipping
+19;Software Development
+20;Strategic Planning
+21;Supplier Relations
+22;Warehouse

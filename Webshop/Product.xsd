@@ -1,0 +1,19 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://ns69nQgkijFqYAi.net" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Products">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Product" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Model"/>
+              <xs:element type="xs:string" name="Description"/>
+              <xs:element type="xs:string" name="LineOfProducts"/>
+              <xs:element type="xs:decimal" name="Price"/>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="SKU" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

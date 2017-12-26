@@ -1,0 +1,987 @@
+"SKU";"Model";"Description";"LineOfProducts";"Price"
+"443529-K21";"K2957 BL320c";"2x  Xeon MP E7320, 4x 213GHz ";"Server";7874.86
+"470065-650";"P29010 DL520p Gen4";"Chipsatz C600 ";"Server";2153.79
+"470065-652";"Q936 ML540p Gen5";"Chipsatz C600 ";"Server";2596.79
+"470065-654";"Q99699 DL530p Gen4";"Chipsatz C600 ";"Server";2359.80
+"470065-822";"Q8064 DL520p Gen4";"Chipsatz C600 ";"Server";3242.42
+"487502-421";"Q88067 DL420 D0";"1x  Xeon DP E5504, 4x 200GHz, Quad-Core "Gainestown" ";"Server";1585.20
+"490432-421";"L82078 DL430 D3";"1x  Xeon DP L5520, 4x 226GHz, Quad-Core "Gainestown" ";"Server";1967.29
+"490932-421";"M409 DL420 D3";"1x  Xeon UP X3450, 4x 266GHz ";"Server";936.79
+"491335-421";"P462 DL520 D8";"1x  Xeon DP L5520, 4x 226GHz, Quad-Core "Gainestown" ";"Server";2855.53
+"491337-K21";"J55562 BL324c D5";"2x Opteron 8387, 4x 280GHz / max. 4 Prozessoren ";"Server";9331.51
+"492334-K21";"M187 BL320c";"2x  Xeon MP E7450, 6x 240GHz ";"Server";1940.15
+"492335-K21";"H68934 BL320c";"2x  Xeon MP E7440, 4x 240GHz ";"Server";1552.11
+"492336-K21";"M87242 BL320c";"2x  Xeon MP E7430, 4x 213GHz ";"Server";8707.01
+"492337-K21";"H8515 BL320c";"2x  Xeon MP E7420, 4x 213GHz ";"Server";1507.42
+"500041-K21";"K68835 BL354c";"1x Opteron 2384, 4x 270GHz / max. 2 Prozessoren ";"Server";2732.14
+"500922-421";"H65248 DL425 D9";"1x Opteron 8380, 4x 250GHz ";"Server";10088.26
+"507339-421";"I60617 DL425 D5";"1x Opteron 2374 HE, 4x 220GHz / max. 2 Prozessoren ";"Server";2150.55
+"507782-K21";"I67131 BL360c D1";"1x  Xeon DP E5520, 4x 226GHz, Quad-Core "Gainestown" ";"Server";2145.51
+"516256-421";"N69060 DL425 D1p";"1x Opteron 2372 HE, 4x 210GHz / max. 2 Prozessoren ";"Server";2786.59
+"518867-K21";"K89725 BL364c D2";"1x Opteron 6128, 8x 200GHz ";"Server";2774.61
+"573090-421";"H66524 DL524 D2";"1x Opteron 6128 HE, 8x 200GHz ";"Server";2639.27
+"579240-421";"L73684 DL530 D1";"1x  Xeon DP E5640, 4x 267GHz ";"Server";3413.87
+"583967-421";"K91793 DL520 D6";"1x  Xeon DP E5640, 4x 267GHz / max. 2 Prozessoren ";"Server";3658.29
+"589152-421";"P8143 DL520 D5";"1x  Xeon DP E5620, 4x 240GHz / max. 2 Prozessoren ";"Server";1541.14
+"603251-K21";"K3905 BL360c D7";"1x  Xeon DP X5670, 6x 293GHz ";"Server";4387.49
+"633405-421";"M1496 DL520 D9";"1x  Xeon DP E5649, 6x 253GHz, 2x 3.16GHz ";"Server";2127.63
+"641458-425";"L75891 DL430 D2";"1x  Xeon DP E5606, 4x 213GHz ";"Server";1140.51
+"642105-421";"L51140 DL520p Gen4";"2x  Xeon E5-2665, 8x 240GHz ";"Server";11095.10
+"642106-421";"Q5558 DL520p Gen4";"2x  Xeon E5-2650, 8x 200GHz ";"Server";2724.88
+"642107-421";"O12128 DL520p Gen4";"1x  Xeon E5-2640, 6x 250GHz ";"Server";2660.64
+"642119-421";"L4362 DL520p Gen4";"1x  Xeon E5-2630, 6x 230GHz ";"Server";4053.87
+"642120-421";"O101 DL520p Gen4";"1x  Xeon E5-2620, 6x 200GHz ";"Server";2100.38
+"642121-421";"J68890 DL520p Gen4";"1x  Xeon E5-2609, 4x 240GHz ";"Server";1904.18
+"642137-421";"L20582 DL524p Gen5";"Chipsatz SR5690 ";"Server";3285.22
+"646675-421";"P4490 ML530p Gen4";"Chipsatz C600 ";"Server";2124.72
+"646676-421";"N22455 ML530p Gen4";"Chipsatz C600 ";"Server";2106.92
+"646900-421";"J98822 DL530p Gen4";"1x  Xeon E5-2603, 4x 180GHz ";"Server";2722.70
+"646902-421";"O860 DL530p Gen4";"1x  Xeon E5-2640, 6x 250GHz ";"Server";2959.30
+"646904-421";"N20452 DL530p Gen4";"2x  Xeon E5-2650, 8x 200GHz ";"Server";4177.92
+"646905-421";"H61557 DL530p Gen4";"2x  Xeon E5-2690, 8x 290GHz ";"Server";5375.32
+"648255-421";"N65240 DL520e Gen4";"1x  Xeon E5-2403, 4x 180GHz ";"Server";1965.65
+"648256-421";"N57618 DL520e Gen4";"1x  Xeon E5-2403, 4x 180GHz ";"Server";1999.75
+"658247-K21";"L1665615G";"4x 1000Base-T ";"Switch";974.99
+"658250-K21";"K3884715G/XG";"4x 1000Base-T ";"Switch";2592.55
+"662082-421";"N43860 DL430 Gen5";"1x  Xeon E5-2603, 4x 180GHz ";"Server";1492.09
+"662257-421";"K3986 DL520p Gen4";"2x  Xeon E5-2690, 8x 290GHz ";"Server";6263.67
+"666157-K21";"J21279 BL360c Gen4";"1x  2x Xeon DP X5670, 6x 293GHz ";"Server";4815.57
+"666158-K21";"O15182 BL360c Gen4";"2x  Xeon E5-2660, 8x 220GHz ";"Server";9367.47
+"666159-K21";"N45776 BL360c Gen4";"Chipsatz C600 ";"Server";3151.14
+"666160-K21";"H3348 BL360c Gen4";"1x  Xeon E5-2640, 6x 250GHz ";"Server";3114.08
+"666161-K21";"J64960 BL360c Gen4";"Chipsatz C600 ";"Server";2092.75
+"666163-K21";"H22801 BL360c Gen4";"Chipsatz C600 ";"Server";4795.12
+"668357-K21";"BQ421520c Gen4";"1x  Xeon E5-2430, 6x 220GHz ";"Server";2595.28
+"668665-421";"I89928 DL520e Gen4";"1x  Xeon E5-2407, 4x 220GHz ";"Server";2629.61
+"668666-421";"K61974 DL520e Gen4";"1x  Xeon E5-2407, 4x 220GHz ";"Server";3067.79
+"668667-421";"N67497 DL520e Gen4";"1x  Xeon E5-2420, 6x 190GHz ";"Server";3726.81
+"668668-421";"K50768 DL520e Gen4";"1x  Xeon E5-2420, 6x 190GHz ";"Server";4317.65
+"668813-421";"I99236 DL530e Gen4";"1x  Xeon E5-2403, 4x 180GHz ";"Server";1961.91
+"668815-421";"Q682 DL530e Gen4";"2x  Xeon E5-2430, 6x 220GHz ";"Server";5840.11
+"675420-421";"L50737 DL520e Gen4";"Chipsatz C204 ";"Server";790.40
+"677198-421";"K93338 DL530p Gen4";"2x  Xeon E5-2603, 4x 180GHz ";"Server";2518.43
+"677278-421";"J98451 DL520p Gen4";"2x  Xeon E5-2630, 6x 230GHz ";"Server";6419.66
+"678237-041";"M42523 ML540p Gen5";"Chipsatz C600 ";"Server";6930.95
+"686134-425";"K56901 DL520e Gen4";"Chipsatz C204 ";"Server";1232.84
+"687567-425";"L16289 DL520e Gen4";"Chipsatz C600 ";"Server";1155.39
+"703930-421";"Q82893 DL524p Gen5";"Chipsatz SR5690 ";"Server";3204.14
+"703931-421";"I87439 DL524p Gen5";"Chipsatz SR5690 ";"Server";4890.82
+"704558-421";"H8906 DL520p Gen4";"Chipsatz C600 ";"Server";5796.57
+"704559-421";"J35748 DL520p Gen4";"Chipsatz C600 ";"Server";1852.95
+"709942-421";"H4117 DL520p Gen4";"Chipsatz C600 ";"Server";5934.23
+"710723-421";"P36712 DL524p Gen5";"Chipsatz SR5690 ";"Server";2333.00
+"717170-421";"K72781 DL520e Gen4 v2";"Chipsatz C222 ";"Server";1121.99
+"724082-K21";"L6870 BL360c Gen4";"Chipsatz C600 ";"Server";4913.67
+"724083-K21";"H9652 BL360c Gen4";"Chipsatz C600 ";"Server";4448.24
+"724085-K21";"H38279 BL360c Gen4";"Chipsatz C600 ";"Server";3010.47
+"724086-K21";"M51404 BL360c Gen4";"Chipsatz C600 ";"Server";3059.07
+"727026-K21";"M96246 BL360c Gen4";"Chipsatz C612 ";"Server";2305.88
+"727027-K21";"K68938 BL360c Gen4";"Chipsatz C612 ";"Server";1995.99
+"727028-K21";"Q89994 BL360c Gen4";"Chipsatz C612 ";"Server";3048.93
+"727029-K21";"I90 BL360c Gen4";"Chipsatz C612 ";"Server";4331.00
+"727030-K21";"I41673 BL360c Gen4";"Chipsatz C612 ";"Server";6028.44
+"727031-K21";"Q4421 BL360c Gen4";"Chipsatz C612 ";"Server";7861.61
+"733644-425";"P729 DL520p Gen4";"Chipsatz C600 ";"Server";4185.35
+"733738-421";"O251 DL530p Gen4";"Chipsatz C600 ";"Server";5340.52
+"733739-421";"K2727 DL530p Gen4";"Chipsatz C600 ";"Server";5532.79
+"737287-425";"I5518 DL530p Gen4";"Chipsatz C600 ";"Server";2805.82
+"752686-K21";"P4653 DL520 Gen3";"Chipsatz C610 ";"Server";1464.91
+"752687-K21";"I6244 DL520 Gen3";"Chipsatz C610 ";"Server";1984.56
+"752688-K21";"K33262 DL520 Gen3";"Chipsatz C610 ";"Server";2530.93
+"752689-K21";"O3034 DL520 Gen3";"Chipsatz C610 ";"Server";4912.58
+"755260-K21";"Enterprise 3170526 DL530p Gen6";"Chipsatz C610 ";"Server";1077.36
+"755262-K21";"Enterprise L296780 DL530p Gen6";"Chipsatz C610 ";"Server";2194.12
+"755263-K21";"Enterprise J67781 DL530p Gen6";"Chipsatz C610 ";"Server";4583.40
+"760133-K21";"H9567 m100 Server";"Chipsatz C2000 (SoC) ";"Server";1309.38
+"765819-421";"L40240 ML540 Gen3";"1x  Xeon E5-2609 v3, 6x 190GHz ";"Desktop-PC";1556.55
+"765821-421";"J82155 ML540 Gen3";"Chipsatz C610 ";"Server";3408.92
+"768345-425";"K43934 DL520 Gen3";"Chipsatz C610 ";"Server";1890.47
+"769504-K21";"I5994 DL430 Gen6";"Chipsatz C612 ";"Server";2226.99
+"769505-K21";"N38209 DL430 Gen6";"Chipsatz C612 ";"Server";2613.31
+"769506-K21";"H1822 DL430 Gen6";"Chipsatz C612 ";"Server";5283.43
+"774435-425";"Enterprise L48569 DL530p Gen6";"Chipsatz C610 ";"Server";1774.51
+"776973-425";"J32343 ML540 Gen3";"Chipsatz C610 ";"Server";2323.72
+"777160-421";"J4904 ML410 Gen3";"1x  Xeon E5-2603 v3, 6x 160GHz ";"Desktop-PC";916.35
+"777394-K21";"O99518 DL30 Gen6";"Chipsatz C610 ";"Server";1315.00
+"777424-K21";"N3341 DL420 Gen3";"Chipsatz C612 ";"Server";1377.64
+"778452-K21";"J7347 DL420 Gen3";"Chipsatz C612 ";"Server";1084.21
+"778453-K21";"P370 DL420 Gen3";"Chipsatz C612 ";"Server";1856.63
+"778454-K21";"O86710 DL420 Gen3";"Chipsatz C612 ";"Server";1339.83
+"778455-K21";"Q79649 DL420 Gen3";"Chipsatz C612 ";"Server";1369.14
+"778456-K21";"H68887 DL420 Gen3";"Chipsatz C612 ";"Server";3052.87
+"778457-K21";"H23968 DL420 Gen3";"Chipsatz C612 ";"Server";6996.64
+"783361-425";"L48712 DL430 Gen6";"Chipsatz C612 ";"Server";1429.63
+"783362-425";"I7229 DL430 Gen6";"Chipsatz C612 ";"Server";1396.76
+"783363-425";"L23442 DL430 Gen6";"Chipsatz C612 ";"Server";1864.13
+"784104-425";"L9418 DL420 Gen3";"Chipsatz C612 ";"Server";1114.67
+"784105-425";"M90922 DL420 Gen3";"Chipsatz C612 ";"Server";1108.31
+"784106-425";"K89416 DL420 Gen3";"Chipsatz C612 ";"Server";1172.04
+"785836-K21";"N4024 DL30 Gen6";"Chipsatz C610 ";"Server";1594.11
+"788078-425";"O58819 DL30 Gen6";"1x  Xeon E5-2603 v3, 6x 160GHz ";"Server";1076.81
+"788095-425";"Q70487 DL420 Gen3";"Chipsatz C612 ";"Server";1250.64
+"788096-425";"L75816 DL420 Gen3";"Chipsatz C612 ";"Server";1253.30
+"788148-425";"Q19811 DL20 Gen3";"Chipsatz C610 ";"Server";1037.67
+"7P53U4";"JDisplay Zt";"Diagonale 2", 61cm ";"Display";263.27
+"7P72UX";"Display Et";"Diagonale 2", 686cm ";"Display";260.06
+"7P94U4";"JDisplay Zt";"Diagonale 3", 762cm ";"Display";935.72
+"7Q13UX";"JDisplay ZtN904923";"Diagonale 2", 584cm ";"Display";324.56
+"7Q14U4";"JDisplay Zt";"Diagonale 21", 54.6cm ";"Display";211.60
+"7R00UX";"DCol Q2018011x";"Diagonale 2", 686cm ";"Display";1000.40
+"803860-K21";"K87129 DL520 Gen3";"Chipsatz C610 ";"Server";8357.14
+"818208-K21";"Enterprise 52822 DL530 Gen6";"Chipsatz C610 ";"Server";2359.80
+"818209-K21";"Enterprise H75403 DL530 Gen6";"Chipsatz C610 ";"Server";4981.25
+"823559-K21";"H9596 DL20 Gen3";"Chipsatz C232 ";"Server";1198.97
+"823562-K21";"Q97873 DL20 Gen3";"Chipsatz C232 ";"Server";1356.98
+"824379-421";"Enterprise 233385 ML50 Gen3";"Xeon E3-1220 v5, 4x 300GHz ";"Desktop-PC";830.34
+"830572-K21";"L50633 DL430 Gen6";"Chipsatz C612 ";"Server";1837.16
+"830701-425";"N29376 DL20 Gen3";"Chipsatz C232 ";"Server";687.58
+"830702-425";"K5250 DL20 Gen3";"Chipsatz C232 ";"Server";666.97
+"830893-421";"Enterprise N57882 ML50 Gen3";"Xeon E3-1240 v5, 4x 350GHz ";"Desktop-PC";1293.26
+"835264-421";"H65208 ML540 Gen3";"1x  Xeon E5-2630 v4, 10x 220GHz ";"Desktop-PC";3727.75
+"835847-425";"K1043 ML540 Gen3";"1x  Xeon E5-2620 v4, 8x 210GHz ";"Desktop-PC";2129.97
+"837826-421";"L91690 ML40 Gen3";"Pentium G4400, 2x 330GHz ";"Desktop-PC";261.62
+"837829-421";"O85714 ML40 Gen3";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";412.92
+"838123-425";"J8371 ML40 Gen3";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";645.26
+"838124-425";"L4856 ML40 Gen3";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";565.60
+"838502-421";"N12201 ML410 Gen3";"1x  Xeon E5-2603 v4, 6x 170GHz ";"Desktop-PC";992.96
+"838503-421";"Q4663 ML410 Gen3";"1x  Xeon E5-2620 v4, 8x 210GHz ";"Desktop-PC";1317.49
+"843374-425";"Enterprise 3742907 DL530 Gen6";"Chipsatz C610 ";"Server";1329.69
+"860070-425";"O81406 DL420 Gen3";"Chipsatz C612 ";"Server";1127.69
+"860103-425";"H72402 DL430 Gen6";"Chipsatz C612 ";"Server";1609.16
+"860104-425";"K90317 DL420 Gen3";"Chipsatz C612 ";"Server";1858.43
+"9E49UU";"Display N5199124c";"Diagonale 21", 54.6cm ";"Display";269.24
+"C0H18U";"DataMount M7292/2 D6 Autoloader";"8 Slots ";"Streamer";4912.58
+"C0L99U";"DataMount XQ";"Kapazität 625TB ";"Streamer";3427.95
+"C427UU";"Q84023xw";"Diagonale 2", 686cm ";"Display";286.59
+"C6Q18U4";"JDisplay O3673572530w";"Diagonale 2", 584cm ";"Display";193.56
+"C8R07U";"Data J61427 2/13 SAN-Switch";"24x Fibre Channel 16Gb/s ";"Switch";8210.65
+"C8R08U";"Data N586180 SN3000B 62/14 SAN-Switch";"48x Fibre Channel 16Gb/s ";"Switch";22500.31
+"C9E49UU";"N99297 Display P224";"Diagonale 21", 54.6cm ";"Display";170.24
+"C9F26UU";"J29184 Display P204";"Diagonale 2", 508cm ";"Display";130.69
+"C9V73UX";"Display Q5651104";"Diagonale 2", 508cm ";"Display";152.49
+"C9V75UX";"Display J77162354";"Diagonale 2", 584cm ";"Display";273.71
+"E4U30UU";"Display Et";"Diagonale 1", 483cm ";"Display";147.98
+"E5P95UX";"O4974034a ";"Diagonale 23", 59.9cm ";"Display";180.53
+"E9Q82U4";"DCol 23280753x";"Diagonale 2", 61cm ";"Display";470.31
+"EF224UX";"I804698364";"Diagonale 2", 61cm ";"Display";1018.82
+"EH946U";"DataMount XA";"Kapazität 16TB ";"Streamer";2605.47
+"EM886UX";"LN17886111";"Diagonale 1", 432cm ";"Display";128.64
+"F3GG72UX";"Display H5631354d";"Diagonale 2", 584cm ";"Display";285.74
+"F4M97UX";"Q13129 Display P41A";"Diagonale 1", 432cm ";"Display";130.78
+"F6S74RX-ZX";"P84594-y000hf ";"E2-7110, 4x 180GHz ";"Notebook";435.95
+"F7U17RX-ZX";"RH40291 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1855.17
+"F8C55UU";"L7864204a";"Diagonale 2", 508cm ";"Display";146.98
+"G1X61RX-ZXK";"DiskStation Q31168660";"1x  Xeon E5-2630 v3, 8x 240GHz ";"Desktop-PC";3448.95
+"G1X73RX-ZX";"Sprout L21642 All-in-One";"Core i7-6700, 4x 340GHz ";"Desktop-PC";2841.27
+"G9W86UX";"P9530159 ";"Diagonale 18", 47cm ";"Display";110.17
+"GG0F18RX-ZXU";"SQ989278400 D5 All-in-One";"Core i5-4590S, 4x 300GHz ";"Desktop-PC";1569.70
+"GG2V34RX-ZX";"N471999 5250 POS-System";"Core i5-4570S, 4x 290GHz ";"Desktop-PC";1374.02
+"GG2V34RX-ZXU";"RK578 5250 POS-System";"Core i5-4570S, 4x 290GHz ";"Desktop-PC";1374.02
+"GG2W50U4";"JDisplay I7389743s";"Diagonale 2", 61cm ";"Display";403.01
+"GG304U";"P34115400-2 SI";"8x 100Base-TX ";"Switch";416.35
+"GG311U";"H991400 EI Switch";"8x 100Base-TX ";"Switch";284.20
+"GG313K";"K3518600-13-PoE v2";"24x 100Base-TX (PoE+) ";"Switch";1553.05
+"GG314U";"N37455400 EI Switch";"16x 100Base-TX ";"Switch";782.15
+"GG315U";"N78083400 EI Switch";"24x 100Base-TX ";"Switch";258.96
+"GG316U";"O94851400 EI Switch";"48x 100Base-TX ";"Switch";1054.54
+"GG318K";"H6311000-2 v1 EI";"8x 100Base-TX ";"Switch";393.48
+"GG318U";"L36175400 EI Switch";"48x 100Base-TX ";"Switch";695.25
+"GG319K";"M477400-13 v1 EI";"16x 100Base-TX ";"Switch";751.45
+"GG319U";"K79527400 EI Switch";"16x 100Base-TX ";"Switch";85.80
+"GG320K";"Q2752300-13 v2 EI";"24x 100Base-TX ";"Switch";882.34
+"GG325U";"O8157 A5300-26-PoE SI";"24x 100Base-TX (PoE) ";"Switch";630.39
+"GG327U";"P7273 A5300-26-PoE SI";"48x 100Base-TX (PoE) ";"Switch";1721.25
+"GG329U";"K505900-16TP SI";"24x 100Base-TX ";"Switch";739.35
+"GG330U";"K26800-16 SI";"24x 100Base-TX (PoE) ";"Switch";1599.32
+"GG332U";"N1647300-62 SI";"48x 100Base-TX";"Switch";374.91
+"GG333U";"M7690 A5300-62 EI";"48x 100Base-TX (PoE) ";"Switch";652.44
+"GG334U";"Q27895 A5300-26-SFP EI";"24x SFP ";"Switch";980.89
+"GG336U";"L98940340-16-4G";"24x 100Base-TX";"Switch";2869.19
+"GG369U";"N75949500-13G SI";"24x 1000Base-T ";"Switch";854.15
+"GG370U";"O9496500-32G SI";"48x 1000Base-T ";"Switch";3013.84
+"GG372U";"N5973500-32G-PoE SI";"48x 1000Base-T (PoE) ";"Switch";3332.25
+"GG374U";"H39457500-13G-SFP EI";"8x 1000Base-T ";"Switch";3793.73
+"GG377U";"I2741500-13G EI";"24x 1000Base-T ";"Switch";2144.49
+"GG378U";"N33351500-13G-PoE EI";"24x 1000Base-T ";"Switch";2956.09
+"GG3G07U4";"JDisplay M8722361s";"Diagonale 2", 686cm ";"Display";765.49
+"GG3G14U4";"JDisplay I43553131q";"Diagonale 2", 686cm ";"Display";1105.62
+"GG7Q66US";"L81466cw";"Diagonale 21", 54.6cm ";"Display";147.11
+"GG7Q74UU";"H81935cw";"Diagonale 2", 584cm ";"Display";195.10
+"GG7Q75UU";"H3662xw";"Diagonale 23", 60.5cm ";"Display";202.63
+"GG8433U";"L9635 3600cl-6XG";"6x 10GBase CX4 Slot ";"Switch";5191.19
+"GG8474U";"Q90656 3640cl-6XG";"6x 10GBase CX4 Slot ";"Switch";5942.48
+"GG858U";"Q725705-16";"16x 100Base-TX ";"Switch";60.92
+"GG864U";"H42808 Switch V4505-10G-PoE";"10x 1000Base-T";"Switch";443.61
+"GG869U";"L1413605-5G";"5x 1000Base-T ";"Switch";39.76
+"GG8772K";"Switch Q9862202vl-12";"72x 100Base-TX (3x J8765A) ";"Switch";2261.74
+"GG9019K";"I26079 Switch 2450-23";"24x 100Base-TX ";"Switch";350.17
+"GG9064U";"K43169 Switch 3204vl-42GS";"44x 1000Base-T ";"Switch";1530.35
+"GG9086U";"M53337 Switch 2340-26/12PWR";"24x 100Base-TX (12x PoE 154W) ";"Switch";834.04
+"GG9137U";"N5823 Switch 2420-2-PoE";"8x 100Base-TX (PoE)";"Switch";591.48
+"GG9145U";"N21808 Switch 2540al-23G";"24x 1000Base-T";"Switch";886.19
+"GG9146U";"K6279 Switch 2540al-23G-PWR";"24x 1000Base-T (PoE)";"Switch";873.33
+"GG9147U";"M87269 Switch 2540al-32G";"48x 1000Base-T";"Switch";937.39
+"GG9263U";"I34299 Switch 3600-26G";"24x 1000Base-T";"Switch";579.87
+"GG9265U";"Q6541 Switch 3600-26XG";"24x SFP ";"Switch";10850.24
+"GG9279U";"L4691 Switch 2450-23G";"24x 1000Base-T ";"Switch";1333.42
+"GG9310U";"Q55259 Switch 5400yl-23G-PoE+ yl";"20x 1000Base-T (24x PoE+) ";"Switch";1722.19
+"GG9311U";"O97287 Switch 5400yl-32G-PWR";"44x 1000Base-T (48x PoE)";"Switch";4596.86
+"GG9448U";"I46412 Switch 4352zl-56G-PoE+";"96x 1000Base-T (PoE+) ";"Switch";7233.93
+"GG9449U";"M24797 Switch 4210-6G";"8x 1000Base-T ";"Switch";244.65
+"GG9452U";"J38161 3600-62G-4XG";"48x 1000Base-T";"Switch";5274.01
+"GG9470U";"O24465 5400-23";"24x 100Base-TX ";"Switch";2295.87
+"GG9472U";"Q71494 5400-32";"40x 100Base-TX";"Switch";474.14
+"GG9473U";"P65638 5400-32-PoE";"44x 100Base-TX (48x PoE)";"Switch";4526.19
+"GG9532U";"J7532351-52G-PoE+/2XG-SFP+ v2 zl";"96x 1000Base-T (PoE+)";"Switch";5604.77
+"GG9533U";"O1308306-44G-PoE+/4G-SFP v1 zl";"44x 1000Base-T (PoE+)";"Switch";3629.69
+"GG9539U";"I29457306-44G-PoE+/4G-SFP v1 zl";"44x 1000Base-T (PoE+)";"Switch";3300.51
+"GG9540U";"P64337351-52G-PoE+/4G-SFP v2 zl";"92x 1000Base-T (PoE+) ";"Switch";6717.66
+"GG9562U";"Q25171 Switch 2545-2G-PoE";"8x 1000Base-T (PoE)";"Switch";673.97
+"GG9573U";"P387800-13G-PoE+-2SFP+";"24x 1000Base-T (PoE+) ";"Switch";2991.11
+"GG9575U";"H65371200-13G-2SFP+";"24x 1000Base-T (PoE)";"Switch";2886.76
+"GG9576U";"H48143200-36G-4SFP+";"48x 1000Base-T";"Switch";4056.91
+"GG9584U";"N12902200-13SFP-2SFP+";"24x SFP ";"Switch";5158.51
+"GG9585U";"I47976200-13G-2XG";"24x 1000Base-T";"Switch";3313.59
+"GG9586U";"M28372200-36G-4XG";"48x 1000Base-T";"Switch";5564.44
+"GG9587U";"K7651200-13G-PoE+-2XG";"24x 1000Base-T (PoE+)";"Switch";2465.14
+"GG9588U";"L5423200-36G-PoE+-4XG";"48x 1000Base-T (PoE+)";"Switch";3542.49
+"GG9623U";"K86312 Switch 2320-26";"24x 100Base-TX ";"Switch";195.38
+"GG9624U";"K5916 Switch 2320-26-PPoE+";"24x 100Base-TX (PoE+) ";"Switch";424.77
+"GG9625U";"Q62067 Switch 2320-26-PoE+";"24x 100Base-TX (PoE+) ";"Switch";790.14
+"GG9626U";"P39850 Switch 2320-62";"48x 100Base-TX ";"Switch";343.34
+"GG9627U";"I16803 Switch 2320-62-PoE+";"48x 100Base-TX (PoE+) ";"Switch";1031.07
+"GG9638U";"H916103-64G-PoE+-2XG v2 zl";"44x 1000Base-T (PoE+)";"Switch";5438.54
+"GG9639U";"I1143242-52G-PoE+-2XG v2 zl";"92x 1000Base-T (PoE+) ";"Switch";16670.45
+"GG9661U";"Q942810-2";"8x 100Base-TX";"Switch";40.22
+"GG9663U";"H309210-14";"24x 100Base-TX";"Switch";55.23
+"GG9664U";"N8648710-14-2G";"24x 100Base-TX ";"Switch";133.34
+"GG9727U";"O37839 Switch 2520-23G-POE+";"24x 1000Base-T (20x PoE+, 370W) ";"Switch";1022.41
+"GG9728U";"M99911 Switch 2520-32G";"48x 1000Base-T";"Switch";1342.27
+"GG9729U";"N67733 Switch 2520-32G-POE+";"48x 1000Base-T (PoE+) ";"Switch";1873.66
+"GG9772U";"H85275 Switch 2450-32G-PoE+";"48x 1000Base-T (PoE+) ";"Switch";1085.13
+"GG9775U";"I473 Switch 2450-32G";"48x 1000Base-T ";"Switch";687.46
+"GG9776U";"P0118 Switch 2450-23G";"24x 1000Base-T ";"Switch";385.72
+"GG9777U";"O62350-2G";"8x 1000Base-T ";"Switch";254.56
+"GG9778U";"O2028250-32-PoE+";"48x 100Base-TX (PoE+) ";"Switch";737.19
+"GG9779U";"H9594150-23-PoE+";"24x 100Base-TX (PoE+) ";"Switch";445.47
+"GG9780U";"I9004150-2-PoE+";"8x 100Base-TX (PoE+) ";"Switch";273.09
+"GG9783U";"Q802950-2";"8x 100Base-TX ";"Switch";181.32
+"GG9791U";"L469805-5";"5x 100Base-TX";"Switch";14.00
+"GG9792U";"Q9456105-5G";"5x 1000Base-T";"Switch";31.60
+"GG9792U3";"J2038905-5G";"5x 1000Base-T";"Switch";32.72
+"GG9793U";"Q2456505-2 v1";"8x 100Base-TX";"Switch";36.37
+"GG9794U";"N1425605-2G v1";"8x 1000Base-T";"Switch";44.62
+"GG9800U";"N3346 Switch 4210-6 v2";"1x 1000Base-T ";"Switch";84.61
+"GG9801U";"I61741 Switch 4210-23 v2";"22x 100Base-TX ";"Switch";159.50
+"GG9821U";"M837006R zl1";"";"Switch";1414.67
+"GG9822U";"L3207051R zl2";"";"Switch";2071.11
+"GG9823U";"H5477406R zl1";"44x 1000Base-T (PoE+) ";"Switch";3671.90
+"GG9824U";"P3147406R zl1";"44x 1000Base-T (PoE+) ";"Switch";3941.24
+"GG9825U";"I234806R zl1";"92x 1000Base-T (PoE+) ";"Switch";4815.01
+"GG9826U";"M181606R zl1";"92x 1000Base-T (PoE+) ";"Switch";4948.27
+"GG9833U";"H622652210-6G";"8x 1000Base-T";"Switch";120.77
+"GG9834U";"H72168210-13G";"24x 1000Base-T";"Switch";275.40
+"GG9836U";"I3803 Switch 2520-32G-POE+ ";"48x 1000Base-T (PoE+, 740W) ";"Switch";2134.98
+"GG9853U";"H452950-32G-PoE+-2SFP+";"48x 1000Base-T ";"Switch";1564.29
+"GG9854U";"Q5815450-23G-PoE+-2SFP+";"24x 1000Base-T (PoE+) ";"Switch";975.42
+"GG9855U";"P8456250-32G-2SFP+";"48x 1000Base-T ";"Switch";980.88
+"GG9856U";"J6932050-23G-2SFP+";"24x 1000Base-T ";"Switch";587.46
+"GG9868U";"O3681406R-2XGT/6SFP+ v1 zl2";"92x 1000Base-T (PoE+) ";"Switch";4608.40
+"GG986K";"P6273010-14-R";"24x 100Base-TX ";"Switch";58.04
+"GG9979U";"J3307510-6G Switch";"8x 1000Base-T";"Switch";86.22
+"GG9980U";"K8866910-23G Switch";"24x 1000Base-T ";"Switch";167.88
+"GG9981U";"M3355710-36G Switch";"48x 1000Base-T ";"Switch";299.27
+"GG9982U";"N9225310-6G-PoE+ Switch";"8x 1000Base-T (4x PoE+, 65W gesamt)";"Switch";159.29
+"GG9983U";"L5058010-23G-PoE+ Switch";"24x 1000Base-T (12x PoE+, 185W gesamt) ";"Switch";358.66
+"GG9984U";"I2463510-36G-PoE+ Switch";"48x 1000Base-T (24x PoE+, 370W gesamt) ";"Switch";694.32
+"GG998U";"J6312605-16G";"16x 1000Base-T ";"Switch";186.74
+"GG9C04EX-ZX";"DiskStation N9093730 CMT";"Core i5-6600, 4x 330GHz ";"Desktop-PC";805.50
+"GG9C06EX-ZX";"DiskStation L640130 CMT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1672.83
+"GG9C11EX-ZX";"DiskStation L71230 CMT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";748.25
+"GG9C12EX-ZXU";"DiskStation K9587630 CMT";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";1141.45
+"GG9C13RX-ZX";"DiskStation L69785730 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1217.01
+"GG9C14RX-ZX";"DiskStation I69396830 SFF";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1456.41
+"GG9C18RX-ZX";"DiskStation P9438230 CMT";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";1418.62
+"GG9C19RX-ZX";"DiskStation O1509330 CMT";"Xeon E3-1245 v5, 4x 350GHz ";"Desktop-PC";2308.12
+"GG9C74RX-ZX";"O928996 2000 POS-System";"Celeron J1900, 4x 200GHz ";"Desktop-PC";1540.16
+"GG9G67UU";"I52735c";"Diagonale 2", 686cm ";"Display";479.59
+"GGC099K";"P2171000-13G-PoE+";"24x 1000Base-T (PoE+) ";"Switch";5832.10
+"GGC100K";"Q9174000-13G";"24x 1000Base-T ";"Switch";5095.82
+"GGC100U";"N0284 A4200-23G";"24x 1000Base-T ";"Switch";2931.54
+"GGC101K";"Q931000-36G-PoE+";"48x 1000Base-T (PoE+) ";"Switch";10928.75
+"GGC101U";"Q68980 4200-36G";"48x 1000Base-T ";"Switch";2555.45
+"GGC103K";"O6988000-13G-SFP";"24x SFP ";"Switch";9480.74
+"GGC103U";"O2549 A4200-23G-SFP";"24x SFP ";"Switch";2613.70
+"GGC104K";"H5295800-36G-PoE+";"48x 1000Base-T (PoE+) ";"Switch";10928.75
+"GGC104U";"M737 4200-36G-PoE";"48x 1000Base-T (PoE) ";"Switch";5303.82
+"GGC105K";"I632200-36G";"48x 1000Base-T ";"Switch";9480.74
+"GGC105U";"O39604200-36G";"48x 1000Base-T ";"Switch";1993.60
+"GGC106K";"H6265310X-53XG-SFP+";"14x SFP+ ";"Switch";14549.48
+"GGC106U";"O1714610-53XG-SFP+";"14x SFP+ ";"Switch";16982.29
+"GGC691U";"I12622250AF-36G";"48x 1000Base-T ";"Switch";6648.44
+"GGC772U";"J9441900AF-32XG-4QSFP+";"48x SFP+ ";"Switch";8106.32
+"GGE005U";"L4623910-13G";"16x 1000Base-T ";"Switch";312.60
+"GGE008U";"H7407010-13G-PoE ";"24x 1000Base-T (PoE, 170W) ";"Switch";544.99
+"GGE015U";"L91748 E3200-42G";"8x 1000Base-T ";"Switch";904.08
+"GGE022U";"P5151 Switch E3240-2";"8x 100Base-TX ";"Switch";250.94
+"GGE045U";"N59514 Switch E3400-24";"12x 100Base-TX ";"Switch";434.60
+"GGE047U";"K20191 E3400-24-PoE";"24x 100Base-TX (PoE)";"Switch";1878.20
+"GGE057U";"Q99896 E3400-24G";"24x 1000Base-T";"Switch";2260.85
+"GGE061U";"H0223 E3400-24G-POE";"24x 1000Base-T (PoE) ";"Switch";2666.84
+"GGE066U";"H5311510-23G EI";"24x 1000Base-T ";"Switch";436.07
+"GGE067U";"O839510-32G EI";"48x 1000Base-T";"Switch";955.50
+"GGE069U";"M66175510-32G EI";"48x 1000Base-T ";"Switch";1670.02
+"GGE072U";"J37477510-32G SI";"48x 1000Base-T";"Switch";1177.19
+"GGE073K";"Network 7489510-13G SI";"16x 1000Base-T ";"Switch";877.04
+"GGE073U";"O95347 4520-13G SI";"16x 1000Base-T ";"Switch";483.40
+"GGE074U";"M590010-23G SI";"24x 1000Base-T ";"Switch";1136.26
+"GGE090U";"I72677 Switch E4500-32G";"48x 1000Base-T (PoE) ";"Switch";6248.43
+"GGE092U";"J86187 Switch E4500-23G-PoE";"24x 1000Base-T (PoE) ";"Switch";4067.06
+"GGE094U";"N20004 Switch E4500-32G-PoE";"48x 1000Base-T (PoE) ";"Switch";7260.48
+"GGF427U";"O92224 E3240-24";"24x 100Base-TX";"Switch";1065.48
+"GGF844U";"Q3885 E3240-24G";"24x 1000Base-T";"Switch";904.08
+"GGF845U";"K48941 E3240-42G";"48x 1000Base-T";"Switch";3492.76
+"GGG091U";"Q1488510-23G-PoE+ SI";"24x 1000Base-T (PoE+) ";"Switch";1020.77
+"GGG219K";"P286110AF-23XG";"24x SFP+ ";"Switch";10896.94
+"GGG219U";"H556210AF-23XG";"24x SFP+ ";"Switch";7057.19
+"GGG221U";"P577100-2 v1 SI";"1x 1000Base-T ";"Switch";447.53
+"GGG222U";"I3275800-13 v1 SI";"2x 1000Base-T ";"Switch";435.99
+"GGG223U";"N326000-13 v2 SI";"2x 1000Base-T ";"Switch";708.22
+"GGG225K";"H947400AF-36G";"48x 1000Base-T ";"Switch";6033.14
+"GGG225U";"J7173200AF-36G";"48x 1000Base-T";"Switch";3801.15
+"GGG236U";"O37748510-23G-PoE+ EI";"24x 1000Base-T (PoE+)";"Switch";1594.14
+"GGG237U";"K27415 Switch 4520-32G-PoE+";"48x 1000Base-T (PoE+) ";"Switch";3384.30
+"GGG238U";"N115500-13G-PoE+ SI";"24x 1000Base-T (PoE+) ";"Switch";1286.63
+"GGG239U";"J86500-32G-PoE+ SI";"48x 1000Base-T (PoE+) ";"Switch";4343.64
+"GGG240U";"J7582500-32G-PoE+ EI";"48x 1000Base-T (PoE+) ";"Switch";2196.02
+"GGG241U";"N4044000-13G-PoE+ EI";"24x 1000Base-T (PoE+) ";"Switch";622.92
+"GGG296U";"Q68658 4520AF-23XG";"24x SFP+ ";"Switch";8560.53
+"GGG299U";"K9507 5300-26 v2 EI";"24x 100Base-TX ";"Switch";452.69
+"GGG300K";"N3068 5300-62 v2 EI";"48x 100Base-TX (PoE) ";"Switch";2768.28
+"GGG300U";"P4452 5300-62 v2 EI";"48x 100Base-TX ";"Switch";1673.14
+"GGG301U";"H70326 5300-26-PoE+ v2 EI";"24x 100Base-TX (PoE+) ";"Switch";1656.79
+"GGG302C";"H6360100-62-PoE+ v1 EI";"48x 100Base-TX (PoE+, 320W gesamt) ";"Switch";3615.65
+"GGG302K";"P055700-62-PoE+ v1";"48x 100Base-TX (PoE+) ";"Switch";3637.32
+"GGG302U";"H1920510-23XG-SFP+";"24x SFP+ ";"Switch";7339.17
+"GGG302U2";"M9248700-62-PoE+ v1";"48x 100Base-TX (PoE+) ";"Switch";2496.09
+"GGG303U";"Q43030 5300-26-SFP v2 EI";"24x 100Base-TX ";"Switch";436.02
+"GGG304K";"Q581800-16 v2";"24x 100Base-TX ";"Switch";1627.97
+"GGG304U";"J1748400-16 v2 SI";"24x 100Base-TX ";"Switch";623.55
+"GGG305K";"M568500-62 v1";"48x 100Base-TX ";"Switch";1899.46
+"GGG305U";"H554500-16TP SI";"48x 100Base-TX ";"Switch";1827.37
+"GGG306C";"N6724700-16-PoE+ v2";"24x 100Base-TX (PoE+) ";"Switch";1641.05
+"GGG306K";"Q4792300-16 v2 SI";"24x 100Base-TX (24x PoE+) ";"Switch";1685.50
+"GGG307C";"I6346600-62-PoE+ v1 SI";"48x 100Base-TX (PoE+, gesamt 720W) ";"Switch";2829.45
+"GGG307U";"L4511000-62-PoE+ v1 SI";"48x 100Base-TX (PoE+) ";"Switch";1983.79
+"GGG311U";"H9379500-13G-4SFP HI";"24x 1000Base-T ";"Switch";2317.92
+"GGG312U";"P9767800-32G-4SFP HI";"48x 1000Base-T ";"Switch";1663.33
+"GGG315K";"O441300-32 v1";"48x 100Base-TX ";"Switch";1680.53
+"GGG315U";"P4689600-32 v1";"48x 100Base-TX ";"Switch";1870.76
+"GGG336U";"Q3721000AF-32XGT-4QSFP+";"48x 10GBase-T ";"Switch";11701.14
+"GGG349U";"H7386910-2G-PoE+";"8x 1000Base-T (PoE+)";"Switch";381.97
+"GGG350U";"O4169710-2G-PoE+";"8x 1000Base-T (PoE+)";"Switch";485.65
+"GGG510U";"J310700AF-32G-4XG-1QSFP+";"48x 1000Base-T ";"Switch";3787.74
+"GGG536U";"M725610-2";"8x 100Base-TX ";"Switch";91.96
+"GGG537U";"H1088110-2-PoE+";"8x 100Base-TX (PoE+) ";"Switch";210.08
+"GGG538U";"O7939210-13";"24x 100Base-TX ";"Switch";163.72
+"GGG539U";"H1675610-13-PoE+";"24x 100Base-TX (PoE+) ";"Switch";356.06
+"GGG540U";"O797410-32";"48x 100Base-TX ";"Switch";297.09
+"GGG542U";"H1204500-32G-PoE+-4SFP HI";"48x 1000Base-T (PoE+, bis zu 1440W gesamt) ";"Switch";4774.19
+"GGG543U";"Q9321900-13G-4SFP HI";"24x 1000Base-T ";"Switch";4853.75
+"GGG708K";"Connect 64634310 24G";"24x 1000Base-T";"Switch";138.91
+"GGG708U";"P447710-14G-R";"24x 1000Base-T ";"Switch";188.26
+"GGG726U";"J59482 4990zl-31QSFP+";"32x QSFP ";"Switch";18121.95
+"GGG894U";"M6891 4100zl-32G-4XG-1QSFP+";"48x 1000Base-T ";"Switch";4011.08
+"GGG896U";"M77895 4100zl-30XG-1QSFP+";"40x SFP+ ";"Switch";4419.94
+"GGG898U";"P9931 4100zl-91XGT-2XG-2QSFP+";"32x 10GBase-T ";"Switch";7759.00
+"GGG912U";"M9665010-2G";"8x 1000Base-T";"Switch";84.46
+"GGG913U";"I191010-26G";"24x 1000Base-T";"Switch";194.24
+"GGG914U";"I482510-62G";"48x 1000Base-T";"Switch";298.10
+"GGG920U";"H021610-2G";"8x 1000Base-T ";"Switch";111.71
+"GGG921U";"I8636410-2G-PoE+";"8x 1000Base-T (8x PoE+, 65W) ";"Switch";204.88
+"GGG922U";"M7800810-2G-PoE+";"8x 1000Base-T (8x PoE+, 180W) ";"Switch";265.95
+"GGG923U";"I7692010-13G";"16x 1000Base-T ";"Switch";176.57
+"GGG924U";"I327110-23G";"24x 1000Base-T ";"Switch";225.62
+"GGG925U";"L3473310-23G-PoE+";"24x 1000Base-T (24x PoE+, 180W) ";"Switch";368.33
+"GGG927U";"P3350-32G";"48x 1000Base-T ";"Switch";342.17
+"GGG928U";"K6178310-32G-PoE+";"48x 1000Base-T (PoE+, 370W gesamt) ";"Switch";824.63
+"GGG932U";"Q3750150-13G-4SFP+";"24x 1000Base-T ";"Switch";1129.10
+"GGG933U";"I7857550-13G-SFP-4SFP+ EI Switch";"16x SFP ";"Switch";1267.11
+"GGG934U";"L4677750-32G-4SFP+ EI Switch";"48x 1000Base-T ";"Switch";1542.34
+"GGG936U";"J7552650-13G-PoE+-4SFP+ 310 W) EI-Switch";"24x 1000Base-T (PoE+, 370W) ";"Switch";1339.83
+"GGG937U";"J012850-32G-PoE+-4SFP+ 310 W) EI-Switch";"24x 1000Base-T (PoE+, 370W) ";"Switch";2199.45
+"GGG938U";"P7749950-13G-2SFP+-2XGT";"24x 1000Base-T ";"Switch";1421.49
+"GGG939U";"H6064250-32G-1SFP+-2XGT";"48x 1000Base-T ";"Switch";1944.09
+"GGG940U";"K897750-13G-PoE+-2SFP+-2XGT";"24x 1000Base-T (PoE+, 370W gesamt) ";"Switch";1675.28
+"GGG941U";"K267150-32G-PoE+-1SFP+-2XGT";"48x 1000Base-T (PoE+, 370W gesamt) ";"Switch";2288.08
+"GGG960U";"I8864650-13G-2SFP+-2XGT";"24x 1000Base-T ";"Switch";731.54
+"GGG962U";"P4358750-13G-2SFP+-2XGT-PoE+";"24x 1000Base-T (24x PoE+, gesamt 370W) ";"Switch";1029.94
+"GGG963U";"M1225750-32G-1SFP+-2XGT-PoE+";"48x 1000Base-T (48x PoE+, gesamt 370W) ";"Switch";1405.99
+"GGH016U";"Connect 466407310 16G";"16x 1000Base-T";"Switch";121.99
+"GGH017U";"Connect 0294310 24G 2SFP";"24x 1000Base-T ";"Switch";174.20
+"GGH018U";"Connect 54371310 24G 2SFP+";"24x 1000Base-T ";"Switch";301.59
+"GGH019U";"Connect 168645310 24G PoE+";"24x 1000Base-T (12x PoE+, gesamt 124W)";"Switch";395.19
+"GGH178U";"L15543 4990 QSFP+ 1-slot";"2x QSFP+";"Switch";12950.07
+"GGH179U";"H20608 4990-3Slot";"32x QSFP+";"Switch";17805.59
+"GGH237U";"I05878000 5G-PoE+-";"5x 1000Base-T";"Switch";178.32
+"GGH327U";"Connect 544590310 5G";"5x 1000Base-T";"Switch";33.39
+"GGH328U";"Connect 845148310 5G PoE+";"5x 1000Base-T (PoE+, 32W)";"Switch";80.35
+"GGH329U";"Connect 73461310 2G";"8x 1000Base-T";"Switch";45.40
+"GGH330U";"Connect 149808310 2G PoE+";"8x 1000Base-T (PoE+, 64W)";"Switch";122.67
+"GGL001U";"P4769851R zl2 SFP+";"92x 1000Base-T (PoE+) ";"Switch";7806.14
+"GGL002U";"O8034806R zl1 SFP+";"8x 10GBase-T (PoE+) ";"Switch";5422.74
+"GGL003U";"P4108706R zl1 SFP+";"44x 1000Base-T (PoE+) ";"Switch";3872.72
+"GGL070U";"M8218750-2-PoE+";"8x 100Base-TX (PoE+, 67W gesamt) ";"Switch";499.14
+"GGL095U";"O3540906R zl1 SFP+";"16x SFP+";"Switch";4759.98
+"GGL253U";"O5813490F 23G 4SFP+";"24x 1000Base-T ";"Switch";1392.58
+"GGL254U";"H7928790F 32G 4SFP+";"48x 1000Base-T ";"Switch";2501.77
+"GGL255U";"N8052490F 23G PoE+ 4SFP+";"24x 1000Base-T (24x PoE+, 370W gesamt) ";"Switch";2355.38
+"GGL256U";"H140390F 32G PoE+ 4SFP+";"48x 1000Base-T (48x PoE+, 370W gesamt) ";"Switch";3293.97
+"GGL258U";"N6659190F";"8x 1000Base-T (PoE+, 125W gesamt) ";"Switch";1092.28
+"GGL259U";"P8025090F 23G 4SFP";"24x 1000Base-T ";"Switch";966.72
+"GGL260U";"H2877590F 32G 4SFP";"48x 1000Base-T ";"Switch";1666.94
+"GGL261U";"Q1120090F 23G PoE+ 4SFP";"24x 1000Base-T (24x PoE+, 370W gesamt) ";"Switch";1637.51
+"GS917UX";"K50549110";"Diagonale 1", 432cm ";"Display";257.55
+"K0Q34UU";"Value Q77320234p";"Diagonale 23", 59.9cm ";"Display";174.97
+"K1M38UU";"Display L75578510c";"Diagonale 2", 686cm ";"Display";318.43
+"K1U77U4";"JDisplay M6053133c";"Diagonale 3", 864cm ";"Display";912.45
+"K5H59U4";"Jvr Virtual Reality Display";"Diagonale 23", 59.9cm ";"Display";6000.44
+"K5M13UU";"Q91182012A";"Diagonale 2", 508cm ";"Display";155.06
+"K5U38UU";"K2493uh";"Diagonale 2", 61cm ";"Display";142.68
+"K7C09U4";"JDisplay P679291n";"Diagonale 2", 686cm ";"Display";596.47
+"K7K99U4";"JDisplay 859103n";"Diagonale 2", 61cm ";"Display";315.54
+"K7M13UU";"L78540511a";"Diagonale 18", 47cm ";"Display";102.60
+"K7X26UX";"Q4962 Display P202va";"Diagonale 19", 49.5cm ";"Display";109.76
+"K7X27UX";"I63750 Display P202";"Diagonale 2", 508cm ";"Display";97.99
+"K7X30UX";"O54855 Display P222va";"Diagonale 21", 54.6cm ";"Display";124.21
+"K7X32UU";"M96029 Display P232va";"Diagonale 2", 61cm ";"Display";177.33
+"KK780K";"M549830000";"8x SFP ";"Switch";4200.39
+"KL532U";"DataMount H5621720042";"48 Slots";"Streamer";13623.09
+"KL541K";"DataMount 285829/2 D1 Autoloader";"8 Slots ";"Streamer";4835.29
+"L2S55RX-ZX";"K84220-ab105hf";"A10-8780P, 4x 200GHz ";"Notebook";722.62
+"L2X02RX-ZX";"5-K40355hf";"A8-7410, 4x 220GHz ";"Notebook";640.10
+"L2X06RX-ZX";"O98409-p103hf ";"E1-6010, 2x 135GHz ";"Notebook";327.51
+"L4K32UW-ZX";"LBook RevolK87208140 D3";"Core i5-5300U, 2x 230GHz ";"Notebook";2299.51
+"L4P51U";"DataMount MI445129042 4";"Kapazität 300TB ";"Streamer";6706.03
+"L4P52U";"DataMount MH651787042 4";"Kapazität 300TB ";"Streamer";6439.63
+"L4P53U";"DataMount MM568188042 1";"Kapazität 300TB ";"Streamer";8415.78
+"L4P54U";"DataMount MP939466042 1";"Kapazität 300TB ";"Streamer";8224.73
+"L5N90UU";"J43718cw";"Diagonale 23", 60.5cm ";"Display";164.49
+"L5N91UU";"K63246xw";"Diagonale 23", 60.5cm ";"Display";225.20
+"LL543UU";"J191503x";"Diagonale 1", 381cm ";"Display";261.03
+"M0K20RX-ZX";"M2310-f122hf";"Core i3-5010U, 2x 210GHz ";"Notebook";464.23
+"M1F41UU";"Display J7837102";"Diagonale 2", 508cm ";"Display";156.42
+"M1N96UU";"Display 222286322";"Diagonale 21", 54.6cm ";"Display";161.67
+"M1N98UX";"Display P905352";"Diagonale 2", 584cm ";"Display";185.19
+"M1N99UX";"Display K0273930";"Diagonale 23", 60.5cm ";"Display";189.53
+"M1P00UU";"Display N4272530c";"Diagonale 23", 60.5cm ";"Display";227.04
+"M1P02UU";"Display L13323532 ";"Diagonale 2", 61cm ";"Display";249.59
+"M1P04UX";"Display L468112q";"Diagonale 2", 686cm ";"Display";398.82
+"M246U4";"DCol 94146591x";"Diagonale 3", 813cm ";"Display";1347.25
+"M2G21U";"2O38506120 Gen3";"Chipsatz C612 ";"Server";1343.86
+"M2GG71UX";"JDisplay J349412562n";"Diagonale 21", 54.6cm ";"Display";143.92
+"M2GG79UX";"JDisplay K2317115n";"Diagonale 2", 584cm ";"Display";181.37
+"M2P37RX-ZX";"H68654-ae001na";"Core i5-5200U, 2x 220GHz ";"Notebook";1075.44
+"M3G77U";"H8814 DL520 Gen3";"Chipsatz C610 ";"Server";2504.68
+"M4R47RX-ZX";"JBook 6959835u D3";"Core i7-5500U, 2x 240GHz ";"Notebook";2763.14
+"M4R63RX-ZX";"JBook 038185 D6";"Core i7-4810MQ, 4x 280GHz ";"Notebook";3370.27
+"M4R64RX-ZX";"JBook 785855 D5";"Core i7-4910MQ, 4x 290GHz ";"Notebook";4153.98
+"M4R67RX-ZX";"JBook 9825331 D7";"Core i7-4710MQ, 4x 250GHz ";"Notebook";1932.34
+"M4R70RX-ZX";"JBook 6322381 D6";"Core i7-4810MQ, 4x 280GHz ";"Notebook";3768.12
+"M4R72RX-ZX";"JBook O445011 D0";"Core i7-4810MQ, 4x 280GHz ";"Notebook";4823.24
+"M4R75RX-ZX";"JBook 2153621 D1";"Core i7-4910MQ, 4x 290GHz ";"Notebook";6259.86
+"M4R78RX-ZX";"JBook 8783741 D7";"Core i7-4710MQ, 4x 250GHz ";"Notebook";2986.59
+"M5V03RX-ZX";"K656042 2050 POS-System";"Pentium J2900, 4x 241GHz ";"Desktop-PC";1140.13
+"M5V05RX-ZX";"I760831 2050 POS-System";"Pentium J2900, 4x 241GHz ";"Desktop-PC";1670.96
+"M5V07RX-ZX";"P75438 2050 POS-System";"Pentium J2900, 4x 241GHz ";"Desktop-PC";1716.74
+"M5V14RX-ZX";"J973524 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";2371.83
+"M5V15RX-ZX";"N178781 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";2238.85
+"M6F38UU";"O6100142a";"Diagonale 20", 52.6cm ";"Display";92.21
+"M6U35UW-ZX";"LBook 95760130 D1";"Core i5-5300U, 2x 230GHz ";"Notebook";2192.21
+"M9K17EX";"Desk 17778804 D8 SFF";"A8 PRO-8650B, 4x 320GHz ";"Desktop-PC";534.82
+"M9K18RX-ZXU";"Desk 83060604 D1 MT";"A8 PRO-8650B, 4x 320GHz ";"Desktop-PC";869.83
+"M9S56RX-ZX";"I22820 D0";"Core i3-4005U, 2x 170GHz ";"Notebook";414.15
+"M9S89RX";"O270040 D6";"Core i5-5200U, 2x 220GHz ";"Notebook";423.47
+"M9U07U";"DataMount MSQ5728023 2";"Typ LTO-6 ";"Streamer";6723.39
+"M9U08U";"DataMount L7196291023 2";"Typ LTO-5 ";"Streamer";4841.30
+"M9U09U";"DataMount 54153/2 D6";"Typ LTO-6 ";"Streamer";5038.21
+"M9U10U";"DataMount 19724/2 D5";"Typ LTO-5 ";"Streamer";3880.00
+"N001RX-ZX";"M19391 Desk 350 D2 MT";"Core i7-4790, 4x 360GHz ";"Desktop-PC";980.93
+"N0P75RX-ZX";"P42105 D6";"A6-6310, 4x 180GHz ";"Notebook";508.67
+"N0P81RX";"O463490 D3";"Celeron N3050, 2x 160GHz ";"Notebook";296.65
+"N0P91RX-ZX";"O258710 D3";"Core i3-5005U, 2x 200GHz ";"Notebook";547.94
+"N1U36RX-ZX";"O703630 340 D0";"Pentium N3700, 4x 160GHz ";"Notebook";685.57
+"N1W94U";"K93268 BL360c Gen4";"Chipsatz C612 ";"Server";1711.25
+"N2G74U";"Q68613 BL360c Gen4";"Chipsatz C612 ";"Server";3312.24
+"N3C01UX";"Display 225724032";"Diagonale 2", 61cm ";"Display";252.03
+"N3C09UU";"Display K3889952e";"Diagonale 2", 584cm ";"Display";205.77
+"N3X45UW-ZX";"AQ J327573200 POS-System";"Pentium G850, 2x 290GHz ";"Desktop-PC";1252.40
+"N3X46UW-ZX";"AQ N2232356200 POS-System";"Core i3-2120, 2x 330GHz ";"Desktop-PC";1379.93
+"N6Q12RX-ZX";"LBook O8620840 D4";"Core i5-5200U, 2x 220GHz ";"Notebook";1061.20
+"N6Q25RX-ZX";"LBook PaM699670030 D7";"Core i5-5200U, 2x 220GHz ";"Notebook";1555.59
+"N6Q58RX-ZX";"N3747 LBook 340 D2";"Core i5-4210M, 2x 260GHz ";"Notebook";1324.34
+"N8P75RX-ZX";"N59352-q242hf All-in-One";"Core i5-6400T, 4x 220GHz ";"Desktop-PC";909.17
+"N8P76RX";"J36533-n245hf";"Core i5-6400T, 4x 220GHz ";"Desktop-PC";1041.48
+"N9C43UU";"K31499";"Diagonale 3", 813cm ";"Display";483.95
+"N9P95UU-ZX";"mO51311 Mobile Thin Client";"A8 PRO-8600B, 4x 160GHz ";"Notebook";1167.85
+"N9R55RX-ZX";"I356-ac101hf ";"Pentium N3700, 4x 160GHz ";"Notebook";411.91
+"N9R63RX-ZX";"I37625-ac105hf grau";"Core i3-5005U, 2x 200GHz ";"Notebook";530.94
+"NK033UU";"LO68303251w";"Diagonale 18", 47cm ";"Display";208.58
+"P0K31RX";"H566990-p056hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";761.92
+"P0U00UU-ZX";"K7648911 Mobile Thin Client";"A8 PRO-8600B, 4x 160GHz ";"Notebook";1255.59
+"P0U60RX-ZX";"N1773-g155hf";"A10-8700P, 4x 180GHz ";"Notebook";682.69
+"P1C50RX-ZX";"L3958-ac105hf ";"Pentium 3825U, 2x 190GHz ";"Notebook";347.62
+"P1E43RX-ZX";"H59376-p101hf";"A6-6310, 4x 180GHz ";"Notebook";426.18
+"P1G36EX-ZXU";"Desk 9915300 D7 USFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";777.73
+"P1G41RX-ZXU";"Desk J8105500 D6 TWR";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1004.70
+"P1G42RX-ZXU";"Desk O6995500 D1 TWR";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1340.12
+"P1K48RX-ZX";"PhoeniI97524130-000hf";"Core i5-6600K, 4x 350GHz ";"Desktop-PC";1663.15
+"P2GG43RX-ZX";"K1632 Desk 350 D6 MT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";913.41
+"P2GG57RA-ZX";"Q23646 Desk 300 D7 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";653.93
+"P2GG58RA-ZX";"L5433 Desk 300 D2 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";641.66
+"P2GG59RA-ZX";"K49725 Desk 300 D6 USFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";627.92
+"P2Q63RA-ZX";"M67489 LBook 340 D2";"Core i5-7200U, 2x 250GHz ";"Notebook";660.62
+"P2U80RX-ZX";"LBook PaP288445030 D9";"Core i5-6200U, 2x 230GHz ";"Notebook";2094.82
+"P3GG44RX";"M4990-510hf rot";"Core i5-6400, 4x 270GHz ";"Desktop-PC";534.09
+"P3Q95RX-ZX";"M27208-w101hf x530";"Core i5-6200U, 2x 230GHz ";"Notebook";884.97
+"P3U14RX-ZX";"L68288-au013hf blau";"Pentium 4405U, 2x 210GHz ";"Notebook";544.99
+"P4F93RX-ZX";"P56455-g110hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1089.99
+"P4GG64RX-ZX";"Q6870-g155hf";"A10-8700P, 4x 180GHz ";"Notebook";614.37
+"P4N86EX-ZXU";"N412 LBook 350 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";757.23
+"P4P60RX-ZX";"L64233 LBook 345 D5";"A8-7410, 4x 220GHz ";"Notebook";654.64
+"P4Q42RX-ZX";"M67670-552hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";395.56
+"P4Q50UW-ZX";"Q756562 5250 POS-System";"Pentium G3420, 2x 320GHz ";"Desktop-PC";1163.02
+"P4Q51UW-ZX";"RL84003 5250 POS-System";"Core i3-4150, 2x 350GHz ";"Desktop-PC";1275.28
+"P4Q52UW-ZX";"J194728 5250 POS-System";"Core i5-4570S, 4x 290GHz ";"Desktop-PC";1428.98
+"P4X48RX-ZX";"LBook 01577314 D5";"A10 PRO-8700B, 4x 180GHz ";"Notebook";868.46
+"P5K00EX";"L7653 Desk 300 D3 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";513.78
+"P5R38RA";"H944770 D3";"Celeron N3050, 2x 160GHz ";"Notebook";387.83
+"P5R65RA-ZX";"K28268 LBook 340 D0";"Core i5-6200U, 2x 230GHz ";"Notebook";744.34
+"P5S01RX-ZX";"P5600 LBook 340 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";781.56
+"P5S80RA-ZX";"O946650 D9";"Celeron N3050, 2x 160GHz ";"Notebook";354.14
+"P5U08RX-ZX";"H286340 D7";"Core i5-6200U, 2x 230GHz ";"Notebook";816.30
+"P5X65RX-ZX";"LBook booM2147923 D3";"Celeron N2940, 4x 183GHz ";"Notebook";372.87
+"P5X65RX-ZXU";"LBook booN9772583 D8";"Celeron N2940, 4x 183GHz ";"Notebook";281.69
+"P6S25UW";"Desk 9207104 D6 MT";"A4 PRO-8350B, 2x 350GHz ";"Desktop-PC";768.44
+"P6S26UW";"Desk 51842404 D1 MT";"A4 PRO-8350B, 2x 350GHz ";"Desktop-PC";756.72
+"P6S27UW-ZX";"Desk N3986804 D7 SFF";"A4 PRO-8350B, 2x 350GHz ";"Desktop-PC";772.08
+"P6S29UW";"Desk 9078804 D5 SFF";"A4 PRO-8350B, 2x 350GHz ";"Desktop-PC";685.15
+"P6S30UW";"Desk 14114404 D1 SFF";"A8 PRO-8650B, 4x 320GHz ";"Desktop-PC";796.57
+"P9H89U";"M83935 DL20 Gen3";"Chipsatz C232 ";"Server";992.34
+"P9H90U";"Enterprise 5330824 ML50 Gen3";"Xeon E3-1220 v5, 4x 300GHz ";"Desktop-PC";809.86
+"P9K70U";"Q94566 MicroServer Gen4";"Core i3-3240, 2x 340GHz ";"Desktop-PC";625.55
+"Q0Q04RX-ZX";"PCK6718210-031hf";"Core i7-6700K, 4x 400GHz ";"Desktop-PC";1882.78
+"Q0X51RX-ZX";"L181060-531hf";"Core i3-6100, 2x 370GHz ";"Desktop-PC";528.54
+"Q0X58RX-ZX";"PQ076610-w053hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";1352.73
+"Q156RX-ZX";"I45785600-000hf";"Core i7-6700K, 4x 400GHz ";"Desktop-PC";4685.90
+"Q3K07EX-ZX";"N34120 LBook 340 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";1098.76
+"Q3K07RX-ZX";"L727 LBook 340 D7";"Core i5-6200U, 2x 230GHz ";"Notebook";1122.69
+"Q3K22EX-ZX";"L23660 LBook 345 D1";"A8 PRO-8600B, 4x 160GHz ";"Notebook";868.17
+"Q3K22RX-ZX";"O29693 LBook 345 D2";"A8 PRO-8600B, 4x 160GHz ";"Notebook";898.15
+"Q3K26EX-ZX";"L63342 LBook 364 D3";"A10 PRO-8700B, 4x 180GHz ";"Notebook";963.33
+"Q3Q19RA";"DiskStation I46410430 CMT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";963.33
+"Q3Q20EX-ZX";"DiskStation I6610730 CMT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";959.96
+"Q3Q24EX-ZX";"DiskStation P51284430 CMT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1112.33
+"Q3Q25EX-ZX";"DiskStation J785376430 CMT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1169.56
+"Q3Q27EX-ZX";"DiskStation L4847230 CMT";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";1219.23
+"Q3Q34EX-ZX";"DiskStation P56666230 SFF";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1129.23
+"Q3Q42EX-ZX";"DiskStation I73860";"1x  Xeon E5-2630 v4, 10x 220GHz ";"Desktop-PC";3071.61
+"Q3Q46RA-ZX";"DiskStation H3700440";"Xeon E5-1620 v4, 4x 350GHz ";"Desktop-PC";1400.44
+"Q4C11UW-ZX";"Slice I128970 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";934.09
+"Q4U10RX-ZX";"Desk 42194004 D5 MT";"A12-9800, 4x 380GHz ";"Desktop-PC";676.55
+"Q4U11RX-ZX";"Desk 5492704 D4 MT";"A10-9700, 4x 350GHz ";"Desktop-PC";585.12
+"Q4U43RX-ZX";"Slice 937635 USFF";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";1094.35
+"Q4U60RX-ZX";"Desk N8997404 D6 Nano";"A12 PRO-9800E, 4x 310GHz ";"Desktop-PC";656.96
+"Q4U96RX-ZX";"Slice 9973598 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";983.16
+"Q5K31RX-ZX";"O89988-ba034hf ";"A6-7310, 4x 200GHz ";"Notebook";316.09
+"Q5K36RX-ZX";"I25769-ba035hf ";"A10-9600P, 4x 240GHz ";"Notebook";500.32
+"Q5U20RX-ZX";"CK93251265-v101hf";"Core i5-7200U, 2x 250GHz ";"Notebook";1407.60
+"Q5W04UW-ZX";"Desk 90649804 D6 MT";"A6-9500, 2x 350GHz ";"Desktop-PC";747.33
+"Q5W05UW-ZX";"Desk 83205904 D0 SFF";"A10-9700, 4x 350GHz ";"Desktop-PC";802.47
+"Q5W06UW-ZX";"DQ9113163504 D5 SFF";"A6-9500, 2x 350GHz ";"Desktop-PC";682.80
+"Q5X51RX-ZX";"P855191 Mobile Thin Client";"A8 PRO-8600B, 4x 160GHz ";"Notebook";1070.37
+"Q5X52RX-ZX";"mJ308291 Mobile Thin Client";"A8 PRO-8600B, 4x 160GHz ";"Notebook";1110.12
+"Q5X66RX-ZX";"K8247-w101hf";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1913.93
+"Q6F43RX-ZX";"P69398-y030hf ";"A8-7410, 4x 220GHz ";"Notebook";435.99
+"Q6W72RX-ZX";"PCK8803310-455hf";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1607.59
+"Q6X14RX-ZX";"P48589500-045hf";"Core i7-6700K, 4x 400GHz ";"Desktop-PC";3141.16
+"Q6X42RX-ZX";"H74757300-049hf";"Core i7-6700K, 4x 400GHz ";"Desktop-PC";3922.90
+"Q7W37RX-ZX";"Q52702-aq101hf x530";"Core i5-7200U, 2x 250GHz ";"Notebook";727.15
+"Q7W46RX-ZX";"J44453-ay035hf";"Core i5-7200U, 2x 250GHz ";"Notebook";761.90
+"Q7W47RX-ZX";"P9193-ay103hf";"Core i7-7500U, 2x 270GHz ";"Notebook";869.50
+"Q7X52RX-ZX";"1J767703hf";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2056.82
+"Q8K40RA-ZX";"I218 LBook 345 D3";"A6-9210, 2x 240GHz ";"Notebook";547.17
+"Q8K41RX-ZX";"H34966 LBook 345 D6";"A9-9410, 2x 290GHz ";"Notebook";643.68
+"Q8K43RX-ZX";"N71186 LBook 345 D1";"A10-9600P, 4x 240GHz ";"Notebook";688.67
+"Q8K44RX-ZX";"Q75557 LBook 350 D6";"Core i5-7200U, 2x 250GHz ";"Notebook";838.93
+"Q8K45RX-ZX";"Q7339 LBook 350 D6";"Core i5-7200U, 2x 250GHz ";"Notebook";885.77
+"Q8K46RX-ZX";"H760 LBook 350 D2";"Core i7-7500U, 2x 270GHz ";"Notebook";939.42
+"Q8K47RX-ZX";"H43229 LBook 350 D1";"Core i7-7500U, 2x 270GHz ";"Notebook";988.46
+"Q8K49RX-ZX";"P86571 LBook 340 D1";"Core i5-7200U, 2x 250GHz ";"Notebook";868.17
+"Q8K50RX-ZX";"I8147 LBook 350 D3";"Core i7-7500U, 2x 270GHz ";"Notebook";972.50
+"Q8K51RX-ZX";"J9250 LBook 340 D1";"Core i7-7500U, 2x 270GHz ";"Notebook";1086.72
+"Q8K53RX-ZX";"N952 LBook 340 D5";"Core i5-7200U, 2x 250GHz ";"Notebook";768.82
+"Q8K54RX-ZX";"M10998 LBook 340 D9";"Core i5-7200U, 2x 250GHz ";"Notebook";801.81
+"Q8K55RX-ZX";"O11700 LBook 340 D8";"Core i5-7200U, 2x 250GHz ";"Notebook";888.18
+"Q8K56RX-ZX";"P29304 LBook 340 D5";"Core i5-7200U, 2x 250GHz ";"Notebook";859.84
+"Q8K57RX-ZX";"J1310 LBook 340 D0";"Core i5-7200U, 2x 250GHz ";"Notebook";920.30
+"Q8K58RX-ZX";"O53701 LBook 340 D3";"Core i5-7200U, 2x 250GHz ";"Notebook";988.46
+"Q8K60RX-ZX";"I2967 LBook 340 D2";"Core i7-7500U, 2x 270GHz ";"Notebook";1055.65
+"Q8K62RX-ZX";"K6947 LBook 310 D7";"Core i5-7200U, 2x 250GHz ";"Notebook";889.06
+"Q8K63RX-ZX";"LBook Q561610 D1";"Core i5-7200U, 2x 250GHz ";"Notebook";938.03
+"Q8K64RX-ZX";"K46093 LBook 310 D5";"Core i5-7200U, 2x 250GHz ";"Notebook";1037.27
+"Q8K66RX-ZX";"P4637 LBook 310 D6";"Core i7-7500U, 2x 270GHz ";"Notebook";1087.65
+"Q8K67RA-ZX";"O22066 LBook 310 D7";"Core i7-7500U, 2x 270GHz ";"Notebook";1087.43
+"Q8K68RX-ZX";"Q96029 LBook 310 D1";"Core i7-7500U, 2x 270GHz ";"Notebook";1118.37
+"Q8R13RX-ZX";"LBook PaQ329179030 D2";"Core i7-6500U, 2x 250GHz ";"Notebook";2305.59
+"Q8R21RA-ZX";"Q75432 LBook 340 D8";"Core i5-6200U, 2x 230GHz ";"Notebook";1399.57
+"QR480K";"P94375000B SAN-Switch";"48x Fibre Channel 8Gb/s";"Switch";10606.72
+"QW937U";"L577220000B 13/42 SAN-Switch";"24x Fibre Channel 16Gb/s ";"Switch";5286.85
+"U1W80UU";"AQ K71349541c";"Diagonale 2", 584cm ";"Display";307.41
+"U1X76UU";"I2077040";"Diagonale 10", 26.4cm ";"Display";434.41
+"U9S75UU";"LJ18739553x";"Diagonale 1", 483cm ";"Display";177.58
+"UE459K";"DataMount 9542355/5";"Typ LTO-6 ";"Streamer";422.69
+"UGG820U";"CASN5081 Gbit SAN-Switch";"8x SFP ";"Switch";6952.24
+"UGG822K";"CH927074/13c SAN-Switch";"24x Fibre Channel 8Gb/s";"Switch";19195.98
+"UM445U";"M89227 DL520 D1";"4x  Xeon X6540, 6x 200GHz ";"Server";17476.48
+"UM447U";"I26472 DL520 D9";"Chipsatz 7500 ";"Server";65553.60
+"UM448U";"K83841 DL520 D5";"Chipsatz 7500 ";"Server";52022.91
+"UM867U";"DataMount 4416/6 SAN-Switch";"8x SFP ";"Switch";3616.31
+"UM870U";"DataMount 444510/30 SAN-Switch";"24x Fibre Channel ";"Switch";13381.65
+"UP862U";"DataMount P97652306";"16x SFP ";"Switch";4668.46
+"UP863U";"DataMount 74564306";"16x SFP ";"Switch";50063.69
+"UQ233K";"Data N2398141 2/10q SAN-Switch";"8x Fibre Channel 8Gb/s ";"Switch";2666.12
+"UW575K";"K26819000";"20x Fibre Channel 8Gb/s ";"Switch";10044.24
+"UW576U";"DataMount N529456000";"20x SFP ";"Switch";12913.12
+"V0Q78RX-ZX";"Q11783-ab111hf";"A10-8780P, 4x 200GHz ";"Notebook";696.96
+"V0X53RX-ZX";"P90778-af111hf ";"A6-5200, 4x 200GHz ";"Notebook";257.13
+"V1C37RX-ZX";"LBook PadL596261";"Core m5-6Y54, 2x 110GHz ";"Notebook";1464.16
+"V1C39RX-ZX";"LBook Pad Q50";"Core m5-6Y54, 2x 110GHz ";"Notebook";1485.34
+"V1C40RX-ZX";"LBook PaN9957247";"Core m5-6Y54, 2x 110GHz ";"Notebook";1314.45
+"V1K03RX-ZX";"CAD N374544 x530 D2";"Core i5-6300U, 2x 240GHz ";"Notebook";1838.52
+"V1K10RX-ZX";"LBook 23406740 D5";"Core i7-6500U, 2x 250GHz ";"Notebook";1694.97
+"V1N29UW-ZX";"LBook PaQ28903030 D9";"Core i5-6300U, 2x 240GHz ";"Notebook";2278.73
+"V1U81RX-ZX";"LBook PadQ9216030 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";1408.86
+"V200UW-ZX";"JBook 682745 D9";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3470.55
+"V219UW-ZX";"JBook P155321 D1";"Core i5-6440HQ, 4x 260GHz ";"Notebook";2626.89
+"V2C98UW-ZX";"JBook 278005 D7";"Core i5-6440HQ, 4x 260GHz ";"Notebook";2585.81
+"V2F27RX";"M392810-155hf";"A10-7800, 4x 350GHz ";"Desktop-PC";585.82
+"V2F33RX";"H247790-152hf";"Core i7-6700, 4x 340GHz ";"Desktop-PC";985.58
+"V2F34RX-ZX";"I850550-155hf";"Core i7-6700, 4x 340GHz ";"Desktop-PC";974.59
+"V2H43RX-ZX";"N1622-ac155hf ";"Pentium N3700, 4x 160GHz ";"Notebook";488.13
+"V5GG61UU";"L1741751 ";"Diagonale 18", 47cm ";"Display";88.01
+"V6K89RX-ZX";"Desk 8131900 D3 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1340.56
+"V6L20RX-ZX";"Desk 62621304 D1 MT";"A10 PRO-8750B, 4x 360GHz ";"Desktop-PC";611.28
+"V7Q63RX-ZX";"O62786 53 Ad All-in-One";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";2917.30
+"V7Q81RX-ZX";"O767820 D7";"Pentium G4400, 2x 330GHz ";"Desktop-PC";368.78
+"V7Q81RX-ZXU";"O93230 D3";"Pentium G4400, 2x 330GHz ";"Desktop-PC";378.58
+"V7R41RX";"Q75611 Sen 300 D6 AiO";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1016.98
+"V7R49RX";"N84358 Desk 300 D7 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";590.88
+"V7R50RX-ZX";"Q32988 Desk 300 D4 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";590.88
+"V8L63RX-ZX";"RO74528 9045 D5 POS-System";"Celeron G3900T, 2x 260GHz ";"Desktop-PC";1755.98
+"V8L64RX-ZX";"H195713 9045 D5 POS-System";"Core i5-6500, 4x 320GHz ";"Desktop-PC";2537.51
+"V8L65RX-ZX";"RI93255 9045 D9 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";2224.68
+"V8L66RX-ZX";"N934994 9045 D3 POS-System";"Pentium G4400, 2x 330GHz ";"Desktop-PC";1975.07
+"V8L70RX-ZX";"J213134 9045 D1 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";2156.01
+"V8L71RX-ZX";"I39864 9045 D2 POS-System";"Pentium G4400, 2x 330GHz ";"Desktop-PC";2141.84
+"V8L72RX-ZX";"J743819 9045 D3 POS-System";"Core i5-6500, 4x 320GHz ";"Desktop-PC";2016.49
+"V8L73RX-ZX";"RP2197 9045 D2 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";2029.57
+"V8L77RX-ZX";"RJ46594 9045 D1 POS-System";"Pentium G4400, 2x 330GHz ";"Desktop-PC";1788.68
+"V8R31RX-ZX";"L40772-ac155hf ";"Core i3-5005U, 2x 200GHz ";"Notebook";453.68
+"V9H83UW-ZX";"Desk K5798300 D3 USFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1091.87
+"VM617U4";"JDisplay ZI8650w";"Diagonale 3", 762cm ";"Display";1022.68
+"W0X08RX-ZX";"P95618-ab113hf";"A10-8780P, 4x 200GHz ";"Notebook";478.40
+"W109RX-ZX";"L460430-153hf";"A10-8750, 4x 360GHz ";"Desktop-PC";587.84
+"W1E47RX-ZX";"H388260-112hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";653.99
+"W1E48RX-ZX";"N23230-115hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";762.99
+"W2V80RX-ZX";"I46973-ac116hf ";"Celeron N3050, 2x 160GHz ";"Notebook";206.99
+"W2V95RX-ZX";"CAD 497030 43-6102hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1468.32
+"W2W94RX-ZX";"J52225-p112hf ";"E2-6110, 4x 150GHz ";"Notebook";326.89
+"W3L13UU";"H198945a";"Diagonale 20", 52.6cm ";"Display";100.81
+"W3M13EX-ZX";"N80684 Desk 300 D4 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";715.03
+"W3M14EX-ZX";"I8352 Desk 300 D3 TWR";"Core i5-6500, 4x 320GHz ";"Desktop-PC";918.00
+"W3P92RX";"M2905 Desk 300 D5 MT";"Pentium G4400, 2x 330GHz ";"Desktop-PC";374.95
+"W4M19RX-ZX";"LBook boP1789805 D7";"Pentium 4405Y, 2x 150GHz ";"Notebook";596.84
+"W4M72RX-ZX";"O78320 D8";"Celeron N3060, 2x 160GHz ";"Notebook";250.59
+"W4M78RX-ZX";"H57255 D2";"E2-7110, 4x 180GHz ";"Notebook";306.68
+"W4M90RX-ZX";"Q53550 D1";"Core i3-5005U, 2x 200GHz ";"Notebook";438.78
+"W4N13RX-ZX";"P627750 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";545.68
+"W4N38RX-ZX";"I63790 D1";"Pentium N3710, 4x 160GHz ";"Notebook";305.83
+"W4P92UW-ZX";"LBook H2610430 D6";"Core i5-6300U, 2x 240GHz ";"Notebook";1645.86
+"W4P96UW-ZX";"LBook I5756230 D8";"Core i5-6300U, 2x 240GHz ";"Notebook";1764.92
+"W4Q15EX-ZX";"N55683 LBook 340 D4";"Core i3-6100U, 2x 230GHz ";"Notebook";580.10
+"W4Q16EX-ZX";"P5277 LBook 340 D8";"Core i7-6500U, 2x 250GHz ";"Notebook";901.77
+"W4Q17EX-ZX";"L32420 LBook 310 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";855.64
+"W4Q18RX-ZX";"K303150 D6";"Core i3-5005U, 2x 200GHz ";"Notebook";471.71
+"W4U51RX-ZX";"N2792 D3 DM";"Core i3-6100U, 2x 230GHz ";"Desktop-PC";392.35
+"W4U51RX-ZXU";"N55750 D8 DM";"Core i3-6100U, 2x 230GHz ";"Desktop-PC";405.17
+"W4U54RX-ZXU";"I21360 D2 DM";"Pentium 4405U, 2x 210GHz ";"Desktop-PC";388.09
+"W4U87RX-ZX";"J51116 Desk 300 D1 USFF";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";558.93
+"W4U88RX-ZX";"N5362 Desk 300 D2 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";636.89
+"W4U89RX-ZX";"Q49178 Desk 300 D0 SFF";"Core i3-6100, 2x 370GHz ";"Desktop-PC";558.93
+"W4U90RX-ZX";"K56131 Desk 300 D5 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";636.89
+"W4X32RX-ZX";"M86193-ab151hf";"Core i7-6500U, 2x 250GHz ";"Notebook";760.51
+"W5U00UW-ZX";"LBook 3308640 D9";"Core i5-6300U, 2x 240GHz ";"Notebook";1854.08
+"W6Q01RX-ZX";"P6031-y015hf ";"A8-7410, 4x 220GHz ";"Notebook";346.17
+"W6Q06RX-ZX";"H4321-x015hf";"Core i7-6500U, 2x 250GHz ";"Notebook";762.99
+"W6Q09RX-ZX";"CAD 69034830 43-6154hf ";"Core i7-6500U, 2x 250GHz ";"Notebook";1525.89
+"W7Q19RX-ZX";"M58314-au011hf";"Core i5-6200U, 2x 230GHz ";"Notebook";837.11
+"W7Q21RX-ZX";"Q86119-au015hf gold";"Core i7-6500U, 2x 250GHz ";"Notebook";858.38
+"W7Q66RX-ZX";"M91563-ba005hf grau";"A10-9600P, 4x 240GHz ";"Notebook";647.23
+"W7U90RX-ZX";"Q89250-y005hf ";"A8-7410, 4x 220GHz ";"Notebook";536.50
+"W7U91RX-ZX";"M20780-y003hf ";"A10-9600P, 4x 240GHz ";"Notebook";604.66
+"W7X58RX-ZX";"J92579-ay011hf ";"Pentium N3710, 4x 160GHz ";"Notebook";429.43
+"W8P00RX-ZX";"Q49965-w002hf";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1474.29
+"W8P04RX-ZX";"N4478-x015hf ";"Pentium N3710, 4x 160GHz ";"Notebook";413.77
+"W8P11RX-ZX";"J8905-y011hf ";"A8-7410, 4x 220GHz ";"Notebook";479.59
+"W8Q42RX-ZX";"CP72921485-v001hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1482.51
+"W8Q51RX-ZX";"I34338-as003hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1022.11
+"W8Q53RX-ZX";"P12867-au015hf";"Core i3-6100U, 2x 230GHz ";"Notebook";640.38
+"W8Q67RX-ZX";"P88001-ay015hf grau";"Celeron N3060, 2x 160GHz ";"Notebook";301.42
+"W8Q72RX-ZX";"L35973-ay015hf";"Core i3-5005U, 2x 200GHz ";"Notebook";533.99
+"W8U29RX-ZX";"CAO564685-v021hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1671.41
+"W9X88RX-ZX";"P49344-aq001hf x530";"Core i5-6200U, 2x 230GHz ";"Notebook";960.74
+"X0E92RX-ZX";"RQ49931 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1516.18
+"X0E93RX-ZX";"I615546 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1887.87
+"X0E94RX-ZX";"Q190888 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";2364.20
+"X0E95RX-ZX";"L444126 7200 POS-System";"Pentium G850, 2x 290GHz ";"Desktop-PC";1771.24
+"X0E96RX-ZX";"J635856 7200 POS-System";"Pentium G850, 2x 290GHz ";"Desktop-PC";2098.24
+"X0E98RX-ZX";"RK25034 7200 POS-System";"Core i3-2120, 2x 330GHz ";"Desktop-PC";2068.81
+"X0E99RX-ZX";"M888288 7200 POS-System";"Core i5-2400S, 4x 250GHz ";"Desktop-PC";2486.28
+"X0F00RX-ZX";"J915603 7200 POS-System";"Core i5-2400S, 4x 250GHz ";"Desktop-PC";2212.69
+"X0F01RX-ZX";"L958269 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";2018.67
+"X0F02RX-ZX";"L207644 7200 POS-System";"Core i3-2120, 2x 330GHz ";"Desktop-PC";1765.24
+"X0F03RX-ZX";"RK45600 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1317.80
+"X0F06RX";"I767384 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1618.64
+"X0F07RX-ZX";"H908794 7200 POS-System";"Celeron G540, 2x 250GHz ";"Desktop-PC";1767.97
+"X0F08RX-ZX";"RO4092 7200 POS-System";"Core i5-2400S, 4x 250GHz ";"Desktop-PC";2175.52
+"X0F09RX-ZX";"RM62179 7200 POS-System";"Core i5-2400S, 4x 250GHz ";"Desktop-PC";3048.72
+"X0F11RX-ZX";"RP2000 5250 POS-System";"Core i3-4330, 2x 350GHz ";"Desktop-PC";1222.97
+"X0F12RX-ZX";"Q90925 9042 D0 POS-System";"Pentium G4400, 2x 330GHz ";"Desktop-PC";2160.37
+"X0F13RX-ZX";"RQ67140 9042 D2 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";2537.51
+"X0F14RX-ZX";"M512580 9042 D6 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";2132.03
+"X0L81RX-ZX";"O19748-w011hf";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1788.29
+"X0N05UU";"Value Q3691022";"Diagonale 21", 54.6cm ";"Display";128.64
+"X0N34RX-ZX";"J77870 D7";"Core i7-6500U, 2x 250GHz ";"Notebook";706.90
+"X0N77RA-ZX";"P181075 D7 ";"A6-7310, 4x 200GHz ";"Notebook";406.79
+"X0N78RA-ZX";"L690400 D5";"Pentium N3710, 4x 160GHz ";"Notebook";384.82
+"X0N79RA-ZX";"M23060 D9";"Core i3-5005U, 2x 200GHz ";"Notebook";474.26
+"X0N80RA-ZX";"N956220 D3";"Core i5-6200U, 2x 230GHz ";"Notebook";517.32
+"X0N81RA-ZX";"J20440 D4";"Core i5-6200U, 2x 230GHz ";"Notebook";576.71
+"X0N82RA-ZX";"N56480 D6";"Core i5-6200U, 2x 230GHz ";"Notebook";568.93
+"X0N83RA-ZX";"I704650 D0";"Core i7-6500U, 2x 250GHz ";"Notebook";673.24
+"X0N84RX-ZX";"J319525 D4 grau";"A6-7310, 4x 200GHz ";"Notebook";385.74
+"X0N85RA-ZX";"Q79718 LBook 340 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";660.52
+"X0N87RA-ZX";"Q77692 LBook 310 D4";"Core i7-6500U, 2x 250GHz ";"Notebook";1041.80
+"X0N96RX-ZX";"LBook boJ20628855 D5";"Core m5-6Y57, 2x 110GHz ";"Notebook";873.41
+"X0P07RA-ZX";"N69060 D5";"Core i3-5005U, 2x 200GHz ";"Notebook";439.73
+"X0P09RA-ZX";"N537640 D5";"Core i3-5005U, 2x 200GHz ";"Notebook";496.27
+"X0P10RA-ZX";"L10500 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";540.17
+"X0P11RA-ZX";"L302680 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";582.99
+"X0P14RA-ZX";"L416880 D1";"Pentium N3710, 4x 160GHz ";"Notebook";398.26
+"X0P28RA-ZX";"O863400 D3";"Core i7-6500U, 2x 250GHz ";"Notebook";621.29
+"X0Q12RA-ZX";"L137550 D3";"Core i5-7200U, 2x 250GHz ";"Notebook";584.76
+"X0Q29RA-ZX";"K1054 LBook 340 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";651.63
+"X1E45RX-ZX";"J8354-ab135hf";"Core i7-5500U, 2x 240GHz ";"Notebook";928.19
+"X1F48RX-ZX";"J3075-ab131hf";"Core i5-6200U, 2x 230GHz ";"Notebook";654.98
+"X1G83RX-ZX";"N76660-510hf";"Core i7-6700, 4x 340GHz ";"Desktop-PC";980.95
+"X1K73RX-ZX";"Station SN439195-an000hf";"Core i5-6200U, 2x 230GHz ";"Notebook";980.99
+"X2F00RX-ZX";"CAD M17658 45 D0";"Core i7-6500U, 2x 250GHz ";"Notebook";1624.09
+"X2F03RX-ZX";"LBook 242876050 D2";"Core m7-6Y75, 2x 120GHz ";"Notebook";2034.67
+"X2F05RX-ZX";"LBook 443744050 D9";"Core m5-6Y57, 2x 110GHz ";"Notebook";1499.31
+"X2F21RX-ZX";"LBook 494417050 D6";"Core m5-6Y54, 2x 110GHz ";"Notebook";1613.19
+"X2F46RX-ZX";"LBook Pad J5473";"Core m5-6Y54, 2x 110GHz ";"Notebook";1813.96
+"X2F49RX-ZX";"LBook PadK879856";"Core m7-6Y75, 2x 120GHz ";"Notebook";2090.78
+"X2F50RX-ZX";"LBook 88939830 D6";"Core i7-6500U, 2x 250GHz ";"Notebook";1771.11
+"X2F51RX-ZX";"LBook 12103330 D8";"Core i7-6500U, 2x 250GHz ";"Notebook";1667.66
+"X2F52RX-ZX";"LBook 123830 D2";"Core i5-6300U, 2x 240GHz ";"Notebook";1574.04
+"X3GG02EX-ZX";"P13083 Desk 300 D1 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";853.71
+"X3GG05RX-ZX";"Desk 4160900 D0 Nano Desktop";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";867.18
+"X3GG07RX-ZX";"H31513 Sen 300 D4 AiO";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1172.62
+"X3GG08RX-ZX";"J26975 Sen 300 D2 AiO";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1400.87
+"X3GG10EX-ZX";"Desk P2451100 D7 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";905.71
+"X3GG11EX-ZX";"Desk 11780200 D6 TWR";"Core i5-6500, 4x 320GHz ";"Desktop-PC";899.54
+"X3GG12EX-ZX";"Desk 44715500 D0 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";874.58
+"X3GG14EX-ZX";"Desk 36519900 D6 TWR";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1021.74
+"X3GG15RX-ZX";"SeH89324200 D8 All-in-One";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1289.78
+"X3GG16RX-ZX";"Desk 79755700 D5 USFF";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1034.89
+"X3GG17RX-ZX";"Desk M4067300 D0 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";848.51
+"X3GG18RX-ZX";"Desk P2720800 D3 TWR";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1565.08
+"X3GG19RX-ZX";"Desk 9519700 D5 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";879.84
+"X3K09RX";"O48245 Desk 300 D6 MT";"Core i3-6100, 2x 370GHz ";"Desktop-PC";558.93
+"X3K10RX";"O930 Desk 300 D7 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";636.89
+"X3K11RX-ZX";"I5227 Desk 350 D9 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";722.13
+"X3K12RX-ZX";"N88493 Sen 300 D4 AiO";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";912.42
+"X3K57RX-ZX";"M82986 Desk 350 D4 MT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";815.39
+"X3K59RX-ZX";"H8265 Desk 350 D9 MT";"Core i7-6700, 4x 340GHz ";"Desktop-PC";850.57
+"X3K75RA-ZX";"O2731 Desk 300 D6 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";539.54
+"X3K76RA-ZX";"P290 D9";"Core i5-6500, 4x 320GHz ";"Desktop-PC";504.57
+"X3M70UU";"O8247es";"Diagonale 21", 54.6cm ";"Display";142.78
+"X3M78UU";"O0683es";"Diagonale 23", 60.5cm ";"Display";161.31
+"X3M86UU";"N6577es";"Diagonale 2", 686cm ";"Display";220.07
+"X3M88UU";"Q36808er";"Diagonale 2", 686cm ";"Display";228.79
+"X3N97RX-ZX";"O817-ba015hf ";"A8-7410, 4x 220GHz ";"Notebook";358.60
+"X3U10UW-ZX";"JBook Studio oL809097";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3164.26
+"X3U87UU";"Value 2783242kd";"Diagonale 21", 54.6cm ";"Display";98.09
+"X3W47UW-ZX";"JBook 4062511 D6";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3587.18
+"X3W49UW-ZX";"JBook 2357295u D3";"Core i5-6440HQ, 4x 260GHz ";"Notebook";2458.07
+"X3W51UW-ZX";"JBook 9621465 D4";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3179.52
+"X3X16UW-ZX";"JBook Studio H6930894";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3046.54
+"X3X18UW-ZX";"JBook Studio I905277";"Xeon E3-1505M v5, 4x 280GHz ";"Notebook";3446.57
+"X4GG06EX-ZX";"I3620 LBook 340 D7";"Core i5-6200U, 2x 230GHz ";"Notebook";848.23
+"X4GG10RX-ZX";"Q7288 LBook 340 D0";"Core i5-6200U, 2x 230GHz ";"Notebook";1125.96
+"X4GG23RX-ZX";"Desk 3581900 D8 TWR";"Core i7-6700, 4x 340GHz ";"Desktop-PC";1682.85
+"X4GG52EX-ZXU";"J20706 Desk 300 D2 SFF";"Core i3-6100, 2x 370GHz ";"Desktop-PC";871.30
+"X4H57RX-ZX";"LBook 55164714 D1";"A12 PRO-8800B, 4x 210GHz ";"Notebook";1338.73
+"X4H60RX-ZX";"LBook 7606345 D5";"A12 PRO-8800B, 4x 210GHz ";"Notebook";1224.46
+"X4K26RX-ZX";"DiskStation Q6463140";"Xeon E5-1620 v3, 4x 350GHz ";"Desktop-PC";1761.52
+"X4K28RX-ZX";"DiskStation M71101840";"Xeon E5-1650 v3, 6x 350GHz ";"Desktop-PC";2885.22
+"X4K29RX-ZX";"DiskStation P325581260";"1x  Xeon E5-2620 v3, 6x 240GHz ";"Desktop-PC";2530.26
+"X4K31RX-ZX";"DiskStation L96584030";"1x  Xeon E5-2620 v3, 6x 240GHz ";"Desktop-PC";2968.06
+"X4K32RX-ZX";"DiskStation M6126330";"1x  Xeon E5-2680 v3, 12x 250GHz ";"Desktop-PC";6325.26
+"X4K41RA-ZX";"DiskStation N941236730 CMT";"Xeon E3-1225 v5, 4x 330GHz ";"Desktop-PC";879.58
+"X4K60EX-ZXK";"DiskStation Q328066560";"1x  Xeon E5-2620 v4, 8x 210GHz ";"Desktop-PC";2344.03
+"X4K63EX-ZX";"DiskStation I21859030";"1x  Xeon E5-2620 v4, 8x 210GHz ";"Desktop-PC";2757.14
+"X4K70RX";"DiskStation K7630214 D5";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1808.22
+"X4K76EX-ZX";"DiskStation P50125440";"Xeon E5-1603 v4, 4x 280GHz ";"Desktop-PC";1476.73
+"X4K77EX-ZX";"DiskStation J4727240";"Xeon E5-1620 v4, 4x 350GHz ";"Desktop-PC";1730.63
+"X4K78EX-ZX";"DiskStation M57547340";"Xeon E5-1620 v4, 4x 350GHz ";"Desktop-PC";1780.61
+"X4K81EX-ZX";"DiskStation I1273640";"Xeon E5-1650 v4, 6x 360GHz ";"Desktop-PC";2246.38
+"X4P55UW-ZX";"Desk 93613000 D8 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1115.29
+"X4P56UW-ZX";"Desk 76587100 D7 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1114.11
+"X4P57UW-ZX";"Desk 2545700 D5 USFF";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";1364.56
+"X4P58UW-ZX";"Desk 41602500 D1 USFF";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";1363.38
+"X4R06RX-ZXU";"H32445 Sen 300 D6 AiO";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";955.79
+"X4R07RX-ZXU";"I48923 Sen 300 D8 AiO";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";753.02
+"X4R68RX";"M20948 Desk 300 D6 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";631.96
+"X4R69EX-ZXU";"L33507 Desk 300 D2 SFF";"Core i3-6100, 2x 370GHz ";"Desktop-PC";459.52
+"X4R69RX";"P4685 Desk 300 D2 SFF";"Core i3-6100, 2x 370GHz ";"Desktop-PC";555.89
+"X4R70EX-ZXU";"M9928 Desk 300 D0 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";532.77
+"X4R70RX";"Q10526 Desk 300 D6 SFF";"Core i5-6500, 4x 320GHz ";"Desktop-PC";631.10
+"X4R73RX";"N6498 Desk 300 D6 SFF";"Core i3-6100, 2x 370GHz ";"Desktop-PC";653.89
+"X4R74RX";"O90801 Desk 300 D6 SFF";"Pentium G4400, 2x 330GHz ";"Desktop-PC";468.98
+"X5C46RX-ZX";"P92446-x035hf ";"Pentium N3710, 4x 160GHz ";"Notebook";537.03
+"X5C58RX-ZX";"CAO684690730 43-6155hf";"Core i7-6500U, 2x 250GHz ";"Notebook";1450.78
+"X5E36UW-ZX";"JBook 7742355u D8";"Core i5-6440HQ, 4x 260GHz ";"Notebook";1990.44
+"X5E38UW-ZX";"JBook L608225u D6";"Core i7-6600U, 2x 260GHz ";"Notebook";2478.06
+"X5K50RX-ZX";"I24740-ab003hf";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1175.15
+"X5K63RX-ZX";"CAD 83408830 43-6104hf ";"Core i7-6560U, 2x 220GHz ";"Notebook";1620.43
+"X5W76RX-ZX";"N19663-x015hf grau";"Core i5-6200U, 2x 230GHz ";"Notebook";870.90
+"X5X49RX-ZX";"L683-x035hf ";"Pentium N3710, 4x 160GHz ";"Notebook";307.87
+"X6N53RX-ZXU";"M832920 D5";"Core i5-6200U, 2x 230GHz ";"Notebook";661.96
+"X6N55RX-ZX";"K561090 D6";"Core i5-6200U, 2x 230GHz ";"Notebook";475.60
+"X6P03RA";"O542810 D7";"Pentium 3825U, 2x 190GHz ";"Notebook";329.10
+"X6P65RX-ZX";"M878080 D8";"Core i5-6200U, 2x 230GHz ";"Notebook";528.94
+"X6Q27RA-ZX";"Q87804 LBook 340 D9";"Core i5-6200U, 2x 230GHz ";"Notebook";862.91
+"X6Q29RA-ZX";"Q17653 LBook 340 D6";"Core i5-6200U, 2x 230GHz ";"Notebook";1006.18
+"X6Q40EX-ZX";"M7143 LBook 350 D8";"Core i5-6200U, 2x 230GHz ";"Notebook";697.97
+"X6Q41EX-ZX";"Q98316 LBook 350 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";725.92
+"X6Q43EX-ZX";"O28955 LBook 340 D0";"Core i5-6200U, 2x 230GHz ";"Notebook";671.75
+"X6Q44EX-ZX";"O89736 LBook 340 D6";"Core i7-6500U, 2x 250GHz ";"Notebook";979.90
+"X6Q45EX-ZX";"O35480 LBook 340 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";674.36
+"X6Q47EX-ZX";"N56858 LBook 340 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";897.21
+"X6Q48EX-ZX";"K372 LBook 310 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";733.31
+"X6Q49EX-ZX";"J26094 LBook 310 D8";"Core i7-6500U, 2x 250GHz ";"Notebook";1080.57
+"X6Q50EX-ZX";"Q5040 LBook 310 D1";"Core i7-6500U, 2x 250GHz ";"Notebook";1018.52
+"X6Q53EX-ZX";"P15742 LBook 340 D5";"Core i3-6100U, 2x 230GHz ";"Notebook";671.75
+"X6Q54EX-ZX";"J50003 LBook 340 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";819.77
+"X6Q54RX";"L163470-136hf blau";"Core i5-6400, 4x 270GHz ";"Desktop-PC";973.51
+"X6Q59RX";"N73330-131hf";"Core i5-6400, 4x 270GHz ";"Desktop-PC";650.46
+"X6R24RA-ZX";"M3594 LBook 340 D2";"Core i3-6100U, 2x 230GHz ";"Notebook";664.20
+"X6R25RA-ZX";"I18872 LBook 340 D9";"Core i7-6500U, 2x 250GHz ";"Notebook";1006.76
+"X6R48RX-ZX";"LBook booP239085 D9";"Core m3-6Y30, 2x 900MHz ";"Notebook";693.75
+"X6X39RA-ZX";"Q69395 Desk 300 D2 TWR";"Core i3-6100, 2x 370GHz ";"Desktop-PC";660.14
+"X6X93RX-ZX";"Slice L946145 USFF";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";848.01
+"X7F58RX-ZX";"H1275-ba015hf ";"E2-7110, 4x 180GHz ";"Notebook";261.59
+"X7F67RX-ZX";"N36555-x050hf ";"Pentium N3710, 4x 160GHz ";"Notebook";377.82
+"X7H69RX-ZX";"M2168-d101hf";"Core i5-6200U, 2x 230GHz ";"Notebook";813.40
+"X7K66UX";"Display J90847030uj";"Diagonale 23", 60.5cm ";"Display";356.38
+"X7N23UW-ZX";"LBook 98713030 D8";"Core i5-6300U, 2x 240GHz ";"Notebook";1682.39
+"X7N25UW-ZX";"LBook J199230 D4";"Core i5-6300U, 2x 240GHz ";"Notebook";1205.18
+"X7N25UW-ZXU";"LBook Q929130 D0";"Core i5-6300U, 2x 240GHz ";"Notebook";1205.18
+"X7N76UW-ZX";"LBook 61047710 D8";"Core i5-6300U, 2x 240GHz ";"Notebook";1782.36
+"X7U87UW-ZX";"LBook 45297940 D5";"Core i5-6300U, 2x 240GHz ";"Notebook";1809.39
+"X7V50RX-ZX";"JBook 9348775 D7";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2245.88
+"X7V51EX-ZX";"JBook 242965 D4";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1915.82
+"X7V51RX-ZX";"JBook 995945 D6";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2483.61
+"X7V52EX-ZX";"JBook 2813335 D8";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1917.18
+"X7V52RX-ZX";"JBook 178755 D7";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2164.62
+"X7V53RX-ZX";"JBook 9964615 D8";"Core i7-6700HQ, 4x 260GHz ";"Notebook";1706.89
+"X7V54RX-ZX";"JBook 826025 D4";"Core i7-6700HQ, 4x 260GHz ";"Notebook";3042.40
+"X7V56RX-ZX";"JBook Studio oJ418291";"Xeon E3-1505M v5, 4x 280GHz ";"Notebook";3418.45
+"X7V58EX-ZX";"JBook 7672235 D2";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2548.79
+"X7V60RX-ZX";"JBook 1580251 D2";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2546.88
+"X7V61EX-ZX";"JBook Q909761 D4";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2108.78
+"X7V61RX-ZX";"JBook 7185771 D5";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2707.77
+"X7V62EX-ZX";"JBook 31161 D8";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2358.37
+"X7V62RX-ZX";"JBook J767621 D5";"Core i7-6700HQ, 4x 260GHz ";"Notebook";3067.79
+"X7V63RX-ZX";"JBook 588491 D0";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2600.52
+"X7V64RX-ZX";"JBook 885171 D5";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3051.13
+"X7V65RX-ZX";"JBook 6866581 D1";"Xeon E3-1535M v5, 4x 290GHz ";"Notebook";4110.60
+"X7W00EX-ZX";"JBook Studio N1050217";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2620.00
+"X7W00RX-ZX";"JBook Studio 13417511";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2634.52
+"X7W01EX-ZXU";"JBook Studio P7255557";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2485.86
+"X7W01RX-ZX";"JBook Studio oH206437";"Core i7-6700HQ, 4x 260GHz ";"Notebook";2191.87
+"X7W02RX-ZX";"JBook Studio L95824";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3389.89
+"X7W03RX-ZX";"JBook Studio O850";"Core i7-6820HQ, 4x 270GHz ";"Notebook";3756.13
+"X7W10EX-ZX";"JBook 77825u D2";"Core i5-6200U, 2x 230GHz ";"Notebook";1250.62
+"X7W10RX-ZX";"JBook 0842855u D1";"Core i5-6200U, 2x 230GHz ";"Notebook";1882.42
+"X7W11RX-ZX";"JBook 2324215u D5";"Core i7-6500U, 2x 250GHz ";"Notebook";2115.91
+"X7W12EX-ZX";"JBook 4612135u D6";"Core i7-6500U, 2x 250GHz ";"Notebook";1453.73
+"X7W12RX-ZX";"JBook J542315u D5";"Core i7-6500U, 2x 250GHz ";"Notebook";2386.93
+"X7W15RX-ZX";"JBook 5454205u D6";"Core i7-6500U, 2x 250GHz ";"Notebook";2788.21
+"X7W16RX-ZX";"JBook Q726015u D0";"Core i7-6500U, 2x 250GHz ";"Notebook";2746.79
+"X7W17RX-ZX";"JBook L56985u D6";"Core i7-6600U, 2x 260GHz ";"Notebook";3407.33
+"X8R81UW-ZX";"JBook N280335u D2";"Core i5-6300U, 2x 240GHz ";"Notebook";2109.29
+"X8R83UW-ZX";"JBook 9268415u D4";"Core i7-6600U, 2x 260GHz ";"Notebook";2726.87
+"X993UW-ZX";"O98029 LBook 360 D4";"Core i5-6300U, 2x 240GHz ";"Notebook";1242.62
+"X9E25UW-ZX";"M29986 LBook 340 D8";"Core i5-6300U, 2x 240GHz ";"Notebook";1252.40
+"X9E28UW-ZX";"N2604 LBook 340 D5";"Core i5-6300U, 2x 240GHz ";"Notebook";1349.41
+"X9K56UW-ZX";"O2577 Desk 300 D3 Nano Desktop";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";923.32
+"X9K57UW-ZX";"O19778 Desk 300 D1 Nano Desktop";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";960.85
+"X9K58UW-ZX";"Q80267 Desk 300 D8 Nano Desktop";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";960.85
+"X9K59UW-ZX";"H50459 Desk 300 D7 Nano Desktop";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";1118.90
+"X9K60UW-ZX";"P1979 Desk 300 D3 Nano Desktop";"Core i7-6700T, 4x 280GHz ";"Desktop-PC";1134.01
+"X9K73RX-ZX";"MN38200 D7 POS-System";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";1043.12
+"X9K74RX-ZX";"ML91389 D7 POS-System";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";1036.58
+"X9K76RX-ZX";"H63244 D9 POS-System";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";1023.50
+"X9K77RX-ZX";"M918393 D7 POS-System";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1306.90
+"X9K78RX-ZX";"N607195 D2 POS-System";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1066.01
+"X9K79RX-ZX";"Q425111 D1 POS-System";"Celeron G3900T, 2x 260GHz ";"Desktop-PC";601.67
+"X9K80RX-ZX";"P857963 D5 POS-System";"Pentium G4400T, 2x 290GHz ";"Desktop-PC";820.75
+"X9K81RX-ZX";"H688484 D3 POS-System";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1156.48
+"X9K82RX-ZX";"J496866 D3 POS-System";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1147.79
+"X9K83RX-ZX";"N403220 D4 POS-System";"Core i5-6500T, 4x 250GHz ";"Desktop-PC";1328.70
+"X9K84RX-ZX";"N421876 9042 D5 POS-System";"Core i3-6100, 2x 370GHz ";"Desktop-PC";1791.95
+"X9K85RX-ZX";"M88702 9042 D2 POS-System";"Core i5-6500, 4x 320GHz ";"Desktop-PC";1977.79
+"X9K86RX-ZX";"M97475 9042 D9 POS-System";"Pentium G4400, 2x 330GHz ";"Desktop-PC";2350.03
+"X9Q81RX-ZX";"H56841-ab102hf rosa";"A6-6310, 4x 180GHz ";"Notebook";542.14
+"X9S94RX";"J66106 Sen 300 D3 AiO";"Core i3-6100T, 2x 320GHz ";"Desktop-PC";852.99
+"X9X08RX";"H33815 Desk 300 D6 MT";"Core i5-6500, 4x 320GHz ";"Desktop-PC";752.93
+"X9X09EX-ZX";"I74144 LBook 345 D0";"A8 PRO-8600B, 4x 160GHz ";"Notebook";854.54
+"X9X09RX-ZX";"I27752 LBook 345 D6";"A8 PRO-8600B, 4x 160GHz ";"Notebook";916.68
+"X9X14EX-ZX";"K95189 LBook 364 D5";"A10 PRO-8700B, 4x 180GHz ";"Notebook";951.50
+"X9X14RX-ZX";"P86657 LBook 364 D7";"A10 PRO-8700B, 4x 180GHz ";"Notebook";947.13
+"X9X18EX-ZX";"LBook 16784040 D6 ";"Core i5-6200U, 2x 230GHz ";"Notebook";1050.30
+"X9X20RX-ZX";"LBook 56684530 D4";"Core i5-6200U, 2x 230GHz ";"Notebook";1782.14
+"X9X22RX-ZX";"LBook K7447730 D2";"Core i5-6200U, 2x 230GHz ";"Notebook";1229.01
+"X9X34RX-ZX";"LBook Q425240 D7";"Core i7-6500U, 2x 250GHz ";"Notebook";1941.66
+"X9X34RX-ZXU";"LBook 5411940 D7";"Core i7-6500U, 2x 250GHz ";"Notebook";1942.37
+"X9X36RX-ZX";"LBook 88719640 D9";"Core i7-6500U, 2x 250GHz ";"Notebook";1783.36
+"X9X40RX-ZX";"LBook M4851110 D9";"Core i5-6200U, 2x 230GHz ";"Notebook";1485.66
+"X9X43EX-ZX";"LBook 28946410 D9";"Core i5-6300U, 2x 240GHz ";"Notebook";1461.52
+"X9X43RX-ZX";"LBook 42845910 D0";"Core i5-6300U, 2x 240GHz ";"Notebook";1917.30
+"X9X46RX-ZX";"LBook K5196710 D0";"Core i7-6500U, 2x 250GHz ";"Notebook";2030.66
+"X9X46RX-ZXU";"LBook 9181510 D5";"Core i7-6500U, 2x 250GHz ";"Notebook";2030.66
+"X9X55RX-ZXU";"LBook 21692430 D8";"Core i5-6200U, 2x 230GHz ";"Notebook";1310.49
+"X9X60EX-ZX";"N843 LBook 360 D0";"Core i5-6200U, 2x 230GHz ";"Notebook";1264.62
+"X9X61EX-ZX";"M97345 LBook 340 D4";"Core i5-6200U, 2x 230GHz ";"Notebook";1079.74
+"X9X61RX-ZX";"K76051 LBook 340 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";1190.27
+"X9X62EX-ZX";"I51943 LBook 360 D7";"Core i5-6200U, 2x 230GHz ";"Notebook";873.19
+"X9X62RX-ZX";"I46621 LBook 360 D1";"Core i5-6200U, 2x 230GHz ";"Notebook";1091.08
+"X9X77EX-ZX";"LBook P1643240 D2 ";"Core i5-6300U, 2x 240GHz ";"Notebook";1526.83
+"X9X77RX-ZX";"LBook K6952245 D6";"A8 PRO-8600B, 4x 160GHz ";"Notebook";1201.34
+"XN375UU";"LQ86748503x";"Diagonale 2", 584cm ";"Display";113.77
+"XW476U4";"JDisplay H219472130w";"Diagonale 2", 686cm ";"Display";545.02
+"ZX242U";"DataMount 53513/10q";"16x SFP";"Switch";3673.15
+"ZX377U";"DataMount 78697/2 D4 Autoloader";"8 Slots ";"Streamer";3609.73
